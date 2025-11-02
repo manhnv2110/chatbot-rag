@@ -1,4 +1,4 @@
-from database import connectDB
+from db.database import connectDB
 import logging 
 import json 
 logging.basicConfig(level=logging.INFO)

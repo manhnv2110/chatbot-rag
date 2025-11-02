@@ -1,0 +1,1 @@
+INFO:root:Upserted 32 products into Chroma.
