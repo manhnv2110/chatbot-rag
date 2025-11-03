@@ -1,4 +1,4 @@
-from llm_client import generate_text 
+from app.generator.llm_client import generate_text 
 from app.retrieval.retrieve import retrieve
 
 def run_rag_pipeline(user_query):
