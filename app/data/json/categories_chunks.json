@@ -1,184 +1,171 @@
 [
   {
-    "id": "category_3",
-    "text": "Danh mục: Áo khoác. Mô tả: Các loại áo khoác nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo khoác jeans, Áo khoác bomber. Giá trung bình: 524,000 VNĐ. Khoảng giá: 499,000 - 549,000 VNĐ.",
+    "id": "category_4",
+    "text": "Danh mục: Áo Khoác. Có 10 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo khoác phao Nam Snowward Form Regular, Áo Khoác Nam Heritage Varsity Form Regular, Áo Khoác Nam Varsity Orginals Form Regular, Áo Khoác Kaki Nam Origin Jacket Form Regular, Áo Khoác Jean Nam Siêu Nhẹ ICON105 Lightweight Indigo Form Loose, Áo Khoác Jean Nam Trucker Steel Mark Form Regular, Áo Khoác Nam Da Lộn Stonewell Form Regular, Áo Khoác Jeans Nam Offwhite Pocket Form Loose. Giá trung bình: 635,000 VNĐ. Khoảng giá: 449,000 - 799,000 VNĐ.",
     "metadata": {
       "type": "category",
-      "category_id": 3,
-      "category_name": "Áo khoác",
-      "product_count": 2,
-      "avg_price": 524000.0,
-      "min_price": 499000.0,
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "product_count": 10,
+      "avg_price": 635000.0,
+      "min_price": 449000.0,
+      "max_price": 799000.0
+    }
+  },
+  {
+    "id": "category_5",
+    "text": "Danh mục: Áo Nỉ Và Len. Có 7 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo Len Nam Cardigan Basic Thêu Logo, Áo Khoác Nỉ Nam Rally Zip Form Regular, Áo Nỉ Nam Họa Tiết Mickey & Friends Bring The Bold Form Regular, Áo Nỉ Sweatshirt Nam Heritage Stripe Nỉ Form Regular, Áo Sweatshirt Nam Varsity States Form Regular, Áo Nỉ Sweatshirt Nam Intramural Pique CVC Form Regular, Áo Nỉ Sweatshirt Nam Track Life Nỉ Form Regular. Giá trung bình: 439,000 VNĐ. Khoảng giá: 379,000 - 549,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 5,
+      "category_name": "Áo Nỉ Và Len",
+      "product_count": 7,
+      "avg_price": 439000.0,
+      "min_price": 379000.0,
       "max_price": 549000.0
     }
   },
   {
-    "id": "category_4",
-    "text": "Danh mục: Áo polo. Mô tả: Các loại áo polo nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo polo thể thao, Áo polo trơn. Giá trung bình: 289,000 VNĐ. Khoảng giá: 279,000 - 299,000 VNĐ.",
-    "metadata": {
-      "type": "category",
-      "category_id": 4,
-      "category_name": "Áo polo",
-      "product_count": 2,
-      "avg_price": 289000.0,
-      "min_price": 279000.0,
-      "max_price": 299000.0
-    }
-  },
-  {
     "id": "category_2",
-    "text": "Danh mục: Áo sơ mi. Mô tả: Các loại áo sơ mi nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo sơ mi caro, Áo sơ mi trắng công sở. Giá trung bình: 314,000 VNĐ. Khoảng giá: 299,000 - 329,000 VNĐ.",
+    "text": "Danh mục: Áo Polo. Có 10 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo Polo Nam Cá Mập CVC Conqueror Bear Form Regular, Áo Polo Len Nam Tay Dài City Fade Form Regular, Áo Polo Len Nam Retro Line Form Regular, Áo Polo Len Nam Downtown Stripe Form Regular, Áo Polo Len Nam Urban Lounge Form Regular, Áo Polo Len Nam Layer Mood Form Regular, Áo Polo Nam Hoạ Tiết Boston Classic Form Regular, Áo Polo Nam Cotton PanelX Form Regular. Giá trung bình: 416,000 VNĐ. Khoảng giá: 349,000 - 529,000 VNĐ.",
     "metadata": {
       "type": "category",
       "category_id": 2,
-      "category_name": "Áo sơ mi",
-      "product_count": 2,
-      "avg_price": 314000.0,
-      "min_price": 299000.0,
-      "max_price": 329000.0
+      "category_name": "Áo Polo",
+      "product_count": 10,
+      "avg_price": 416000.0,
+      "min_price": 349000.0,
+      "max_price": 529000.0
+    }
+  },
+  {
+    "id": "category_3",
+    "text": "Danh mục: Áo Sơmi. Có 10 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo Sơ Mi Nam Tay Dài Monotype Form Regular, Áo Sơmi Linen Nam Tay Dài Quite Sharp Form Regular, Áo Sơ Mi Nam Caro Flannel Mississippi Form Regular, Áo Sơ Mi Nam Tay Dài Rogne Bear Form Slim, Áo Sơ Mi Tay Dài Nam ID Embroidery Stripped Shirt Form Regular, Áo Sơ Mi Tay Dài Nam CD Star Form Regular, Áo Sơmi Linen Nam Tay Dài Quite Sharp Form Regular, Áo Sơ Mi Nam Cuban Rochet Strip Form Relaxed. Giá trung bình: 358,000 VNĐ. Khoảng giá: 329,000 - 399,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "product_count": 10,
+      "avg_price": 358000.0,
+      "min_price": 329000.0,
+      "max_price": 399000.0
     }
   },
   {
     "id": "category_1",
-    "text": "Danh mục: Áo thun. Mô tả: Các loại áo thun nam. Có 3 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo Polo Nam Họa Tiết Thêu Nổi PanelPlay Form Regular, Áo thun nam oversize, Áo thun nam basic. Giá trung bình: 215,667 VNĐ. Khoảng giá: 199,000 - 249,000 VNĐ.",
+    "text": "Danh mục: Áo Thun. Có 10 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo Thun Nam Cotton Pattern DenimSky Form Regular, Áo Thun Nam HomeRun Form Regular, Áo Thun Nam Cotton Bull Dog Form Regular, Áo Thun Len Nam Mono Sense Form Regular, Áo Thun Nam Cotton Inspiring Form Regular, Áo Thun Nam Cotton Bear Line Form Regular, Áo Thun Nam Cotton ICONDENIM Shimmer Logo Form Regular, Áo Thun Nam Dệt Sọc Chìm Harmonic Form Regular. Giá trung bình: 308,000 VNĐ. Khoảng giá: 249,000 - 379,000 VNĐ.",
     "metadata": {
       "type": "category",
       "category_id": 1,
-      "category_name": "Áo thun",
-      "product_count": 3,
-      "avg_price": 215666.666667,
-      "min_price": 199000.0,
-      "max_price": 249000.0
-    }
-  },
-  {
-    "id": "category_10",
-    "text": "Danh mục: Giày & dép. Mô tả: Các loại giày và dép nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Giày sneaker nam, Dép nam quai ngang. Giá trung bình: 449,000 VNĐ. Khoảng giá: 199,000 - 699,000 VNĐ.",
-    "metadata": {
-      "type": "category",
-      "category_id": 10,
-      "category_name": "Giày & dép",
-      "product_count": 2,
-      "avg_price": 449000.0,
-      "min_price": 199000.0,
-      "max_price": 699000.0
-    }
-  },
-  {
-    "id": "category_14",
-    "text": "Danh mục: Mắt kính. Mô tả: Các loại mắt kính nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Mắt kính thời trang, Mắt kính râm nam. Giá trung bình: 214,000 VNĐ. Khoảng giá: 199,000 - 229,000 VNĐ.",
-    "metadata": {
-      "type": "category",
-      "category_id": 14,
-      "category_name": "Mắt kính",
-      "product_count": 2,
-      "avg_price": 214000.0,
-      "min_price": 199000.0,
-      "max_price": 229000.0
-    }
-  },
-  {
-    "id": "category_11",
-    "text": "Danh mục: Nón. Mô tả: Các loại nón nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Nón bucket, Nón lưỡi trai. Giá trung bình: 164,000 VNĐ. Khoảng giá: 149,000 - 179,000 VNĐ.",
-    "metadata": {
-      "type": "category",
-      "category_id": 11,
-      "category_name": "Nón",
-      "product_count": 2,
-      "avg_price": 164000.0,
-      "min_price": 149000.0,
-      "max_price": 179000.0
-    }
-  },
-  {
-    "id": "category_8",
-    "text": "Danh mục: Quần boxer. Mô tả: Các loại quần boxer nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần boxer thoáng khí, Quần boxer cotton. Giá trung bình: 114,000 VNĐ. Khoảng giá: 99,000 - 129,000 VNĐ.",
-    "metadata": {
-      "type": "category",
-      "category_id": 8,
-      "category_name": "Quần boxer",
-      "product_count": 2,
-      "avg_price": 114000.0,
-      "min_price": 99000.0,
-      "max_price": 129000.0
-    }
-  },
-  {
-    "id": "category_7",
-    "text": "Danh mục: Quần jeans. Mô tả: Các loại quần jeans nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần jeans rách gối, Quần jeans xanh đậm. Giá trung bình: 479,000 VNĐ. Khoảng giá: 459,000 - 499,000 VNĐ.",
-    "metadata": {
-      "type": "category",
-      "category_id": 7,
-      "category_name": "Quần jeans",
-      "product_count": 2,
-      "avg_price": 479000.0,
-      "min_price": 459000.0,
-      "max_price": 499000.0
-    }
-  },
-  {
-    "id": "category_9",
-    "text": "Danh mục: Quần jogger. Mô tả: Các loại quần jogger nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần jogger nỉ, Quần jogger thể thao. Giá trung bình: 364,000 VNĐ. Khoảng giá: 349,000 - 379,000 VNĐ.",
-    "metadata": {
-      "type": "category",
-      "category_id": 9,
-      "category_name": "Quần jogger",
-      "product_count": 2,
-      "avg_price": 364000.0,
-      "min_price": 349000.0,
+      "category_name": "Áo Thun",
+      "product_count": 10,
+      "avg_price": 308000.0,
+      "min_price": 249000.0,
       "max_price": 379000.0
     }
   },
   {
     "id": "category_6",
-    "text": "Danh mục: Quần short. Mô tả: Các loại quần short nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần short kaki, Quần short thể thao. Giá trung bình: 244,000 VNĐ. Khoảng giá: 229,000 - 259,000 VNĐ.",
+    "text": "Danh mục: Hoodie. Có 8 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo Hoodie Nam Họa Tiết Mickey & Friends Shinning Time Form Oversize, Áo Hoodie Nam Rubber Nỉ Cào Bông Form Loose, Áo Khoác Hoodie Nam Orgnls Hand-Drawn Chain Stitch Lettering Form Regular, Áo Hoodie Nam Orgnls Typography With Tape, Áo Khoác Nam Hoodie Zip Orgnls Form Regular, Áo Hoodie Nam Nỉ Explore Form Loose, Áo Khoác Hoodie Zip Nam Mixing Horizontal Stripes Form Loose, Áo Hoodie Nam Spiritual Quotes Form Regular. Giá trung bình: 479,000 VNĐ. Khoảng giá: 449,000 - 549,000 VNĐ.",
     "metadata": {
       "type": "category",
       "category_id": 6,
-      "category_name": "Quần short",
-      "product_count": 2,
-      "avg_price": 244000.0,
-      "min_price": 229000.0,
-      "max_price": 259000.0
+      "category_name": "Hoodie",
+      "product_count": 8,
+      "avg_price": 479000.0,
+      "min_price": 449000.0,
+      "max_price": 549000.0
     }
   },
   {
-    "id": "category_5",
-    "text": "Danh mục: Quần tây. Mô tả: Các loại quần tây nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần tây ống đứng, Quần tây nam công sở. Giá trung bình: 414,000 VNĐ. Khoảng giá: 399,000 - 429,000 VNĐ.",
+    "id": "category_13",
+    "text": "Danh mục: Quần Boxer. Có 9 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần Boxer Cooling Seam Press, Quần Boxer Nam Basic Logo Form Trunks, Quần Boxer Nam Active Camo Form Trunks, Quần Boxer Nam Active Logo Box Trunks, Quần Boxer Nam Lưng Ép Monogram Orgnls Lowkey Form Trunks, Quần Boxer Nam Lưng Thun Dệt Logo Fortune Revealed Form Trunks, Quần Boxer Lưng Ép Horizonal Stripe, Quần Boxer Nam Seamless Knit. Giá trung bình: 115,556 VNĐ. Khoảng giá: 100,000 - 120,000 VNĐ.",
     "metadata": {
       "type": "category",
-      "category_id": 5,
-      "category_name": "Quần tây",
-      "product_count": 2,
-      "avg_price": 414000.0,
-      "min_price": 399000.0,
+      "category_id": 13,
+      "category_name": "Quần Boxer",
+      "product_count": 9,
+      "avg_price": 115555.555556,
+      "min_price": 100000.0,
+      "max_price": 120000.0
+    }
+  },
+  {
+    "id": "category_8",
+    "text": "Danh mục: Quần Jean. Có 10 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần Smart Jeans Nam Siêu Co Dãn Grey Form Smart Fit, Quần Jean Nam Siêu Nhẹ Ống Suông Indigo ICON105 Form Straight, Quần Jeans Nam Vintage Washed Blue Form Baggy, Quần Jean Nam Streetline Form Smart Fit, Quần Jeans Nam Paints Form Straight, Quần Jean Nam Hoạ Tiết Jacquard Form Straight, Quần Jean Nam Cotton Offwhite Form Baggy, Quần Jean Nam Grey Form Baggy. Giá trung bình: 559,000 VNĐ. Khoảng giá: 549,000 - 599,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 8,
+      "category_name": "Quần Jean",
+      "product_count": 10,
+      "avg_price": 559000.0,
+      "min_price": 549000.0,
+      "max_price": 599000.0
+    }
+  },
+  {
+    "id": "category_11",
+    "text": "Danh mục: Quần Jogger - Quần Dài. Có 6 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần Dài Nam Tatical Geared Form Baggy, Quần Dài Nam Linen Ease Trourses Form Regular, Quần Jogger Nam Dashfield Nỉ Form Regular, Quần Dài Kaki Nam Wanderlust Form Straight, Quần Jogger Nam Milesway Nỉ Form Baggy, Quần Jogger Linen Nam Basic Form Regular. Giá trung bình: 420,667 VNĐ. Khoảng giá: 389,000 - 449,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 11,
+      "category_name": "Quần Jogger - Quần Dài",
+      "product_count": 6,
+      "avg_price": 420666.666667,
+      "min_price": 389000.0,
+      "max_price": 449000.0
+    }
+  },
+  {
+    "id": "category_10",
+    "text": "Danh mục: Quần Kaki & Chino. Có 12 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần Kaki Nam Ống Suông Street-Style Logo Garment-Dyed Form Baggy, Quần Kaki Nam Ống Suông DualPocket Edge Form Straight, Quần Kaki Nam Garment Dye With Leather Detail Form Straight, Quần Kaki Nam Wash ID Form Straight, Quần Kaki Nam Ống Ôm StrecthBand Form Slim, Quần Kaki Nam Ống Suông Cargo ICDN Tag Form Straight, Quần Kaki Nam Classic Five Form Slim, Quần Kaki Nam Essential Baggy Pants Form Baggy. Giá trung bình: 471,667 VNĐ. Khoảng giá: 419,000 - 579,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "product_count": 12,
+      "avg_price": 471666.666667,
+      "min_price": 419000.0,
+      "max_price": 579000.0
+    }
+  },
+  {
+    "id": "category_9",
+    "text": "Danh mục: Quần Short. Có 10 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần Short Nam Orgnls Raw Edge Shorts Form Loose, Quần Jean Nam Siêu Nhẹ Dark Grey ICON105 Form Loose, Quần Short Jean Nam Siêu Nhẹ ICON105 Mid Blue Form Loose, Quần Short Nam Denim Cotton Star Form Loose, Quần Short Nam Kaki Strecth Cargo Form Regular, Quần Short Nam ID Monogram Pattern Form Regular, Quần Short Nam Essential Stretch Pants Form Regular, Quần Short Nam Kaki Movement Form Regular. Giá trung bình: 376,000 VNĐ. Khoảng giá: 249,000 - 429,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 9,
+      "category_name": "Quần Short",
+      "product_count": 10,
+      "avg_price": 376000.0,
+      "min_price": 249000.0,
       "max_price": 429000.0
     }
   },
   {
     "id": "category_12",
-    "text": "Danh mục: Thắt lưng. Mô tả: Các loại thắt lưng nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Thắt lưng khóa tự động, Thắt lưng da nam. Giá trung bình: 274,000 VNĐ. Khoảng giá: 259,000 - 289,000 VNĐ.",
+    "text": "Danh mục: Quần Tây. Có 13 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần Tây Nam Monte Harrison Trousers Form Slim, Quần Tây Nam Ống Ôm Button Sidetab Form Slim, Quần Tây Nam Urban Trousers Form Slim Crop, Quần Tây Nam Ống Suông Hidden Elastic Side Waist Form Straight, Quần Tây Nam Ống Suông Sidetab Form Crop, Quần Tây Nam Ống Ôm Ratchet Straps Form Slim, Quần Tây Nam Ống Suông Sidetab Form Straight, Quần Tây Nam Ống Ôm Dài Form Slim. Giá trung bình: 419,538 VNĐ. Khoảng giá: 390,000 - 479,000 VNĐ.",
     "metadata": {
       "type": "category",
       "category_id": 12,
-      "category_name": "Thắt lưng",
-      "product_count": 2,
-      "avg_price": 274000.0,
-      "min_price": 259000.0,
-      "max_price": 289000.0
+      "category_name": "Quần Tây",
+      "product_count": 13,
+      "avg_price": 419538.461538,
+      "min_price": 390000.0,
+      "max_price": 479000.0
     }
   },
   {
-    "id": "category_13",
-    "text": "Danh mục: Vớ. Mô tả: Các loại vớ nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Vớ thể thao, Vớ cổ ngắn. Giá trung bình: 59,000 VNĐ. Khoảng giá: 49,000 - 69,000 VNĐ.",
+    "id": "category_7",
+    "text": "Danh mục: Tank Top - Áo Ba Lỗ. Có 6 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo Tanktop Nam In Nổi Strokes Orgnls Form Regular, Áo Tank Top Nam Rust Form Relaxed, Áo Tanktop Nam Strike Zone Mesh Form Relaxed, Áo Tanktop Nam Daily Tank Form Regular, Áo Tanktop Nam Sticker ID Form Regular, Áo TankTop Lưới Nam Hoạ Tiết Sundaze Rush Form Regular. Giá trung bình: 237,667 VNĐ. Khoảng giá: 190,000 - 299,000 VNĐ.",
     "metadata": {
       "type": "category",
-      "category_id": 13,
-      "category_name": "Vớ",
-      "product_count": 2,
-      "avg_price": 59000.0,
-      "min_price": 49000.0,
-      "max_price": 69000.0
+      "category_id": 7,
+      "category_name": "Tank Top - Áo Ba Lỗ",
+      "product_count": 6,
+      "avg_price": 237666.666667,
+      "min_price": 190000.0,
+      "max_price": 299000.0
     }
   }
 ]

@@ -159,12 +159,24 @@ class ConversationService:
                     result = cur.fetchone()
                     conn.commit()
 
+                    # ✅ FIX: Parse metadata từ JSON string sang dict
+                    parsed_metadata = None
+                    if result["metadata"]:
+                        try:
+                            if isinstance(result["metadata"], str):
+                                parsed_metadata = json.loads(result["metadata"])
+                            else:
+                                parsed_metadata = result["metadata"]
+                        except json.JSONDecodeError:
+                            print(f"⚠️ Warning: Cannot parse metadata: {result['metadata']}")
+                            parsed_metadata = None
+
                     return Message(
                         id=result["id"],
                         conversation_id=result["conversation_id"],
                         role=result["role"],
                         content=result["content"],
-                        metadata=json.loads(result["metadata"]) if result["metadata"] else None,
+                        metadata=parsed_metadata,
                         created_at=result["created_at"],
                     )
         except Exception as e:
@@ -195,19 +207,37 @@ class ConversationService:
                     cur.execute(query, params)
                     results = cur.fetchall()
 
-                    return [
-                        Message(
-                            id=r["id"],
-                            conversation_id=r["conversation_id"],
-                            role=r["role"],
-                            content=r["content"],
-                            metadata=r["metadata"],
-                            created_at=r["created_at"],
+                    messages = []
+                    for r in results:
+                        # ✅ FIX: Parse metadata từ JSON string sang dict
+                        parsed_metadata = None
+                        if r["metadata"]:
+                            try:
+                                if isinstance(r["metadata"], str):
+                                    parsed_metadata = json.loads(r["metadata"])
+                                else:
+                                    parsed_metadata = r["metadata"]
+                            except json.JSONDecodeError:
+                                print(f"⚠️ Warning: Cannot parse metadata for message {r['id']}")
+                                parsed_metadata = None
+
+                        messages.append(
+                            Message(
+                                id=r["id"],
+                                conversation_id=r["conversation_id"],
+                                role=r["role"],
+                                content=r["content"],
+                                metadata=parsed_metadata,
+                                created_at=r["created_at"],
+                            )
                         )
-                        for r in results
-                    ]
+                    
+                    return messages
+                    
         except Exception as e:
             print(f"❌ Error getting messages: {e}")
+            import traceback
+            traceback.print_exc()
             return []
 
     def get_conversation_with_messages(

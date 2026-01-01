@@ -1,493 +1,2057 @@
 [
   {
-    "id": "product_29",
-    "text": "Sản phẩm: Áo Polo Nam Họa Tiết Thêu Nổi PanelPlay Form Regular. Danh mục: Áo thun. Giá: 199,000 VNĐ. Mô tả: VẢI CÁ SẤU COTTON MÁT MẺ, FORM REGULAR GỌN GÀNG, LINH HOẠT ỨNG DỤNG, PHỐI VIỀN SỌC CHUẨN GU, CHẤT RIÊNG NỔI BẬT. Size có sẵn: L (còn 40 sản phẩm), M (còn 69 sản phẩm), S (còn 50 sản phẩm), XL (còn 14 sản phẩm). Tổng tồn kho: 173 sản phẩm. Đánh giá: 4.0/5 sao từ 2 người mua. Nhận xét: 'Sản phẩm tốt, đẹp ' (5 sao); 'Sản phẩm tệ ' (3 sao). Có 3 hình ảnh sản phẩm.",
+    "id": "product_121",
+    "text": "Sản phẩm: Quần Boxer Coolmax Polyester Fabric. Danh mục: Quần Boxer. Giá: 100,000 VNĐ. Size có sẵn: L (còn 62 sản phẩm), M (còn 52 sản phẩm), S (còn 83 sản phẩm), XL (còn 67 sản phẩm). Tổng tồn kho: 264 sản phẩm. Có 3 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 29,
-      "product_name": "Áo Polo Nam Họa Tiết Thêu Nổi PanelPlay Form Regular",
-      "category_id": 1,
-      "category_name": "Áo thun",
-      "price": 199000.0,
-      "avg_rating": 4.0,
-      "review_count": 2,
-      "total_stock": 173,
+      "product_id": 121,
+      "product_name": "Quần Boxer Coolmax Polyester Fabric",
+      "category_id": 13,
+      "category_name": "Quần Boxer",
+      "price": 100000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 264,
       "has_variants": true,
       "image_count": 3
     }
   },
   {
-    "id": "product_1",
-    "text": "Sản phẩm: Áo thun nam basic. Danh mục: Áo thun. Giá: 199,000 VNĐ. Mô tả: Áo thun cotton 100%, form regular. Size có sẵn: L (còn 29 sản phẩm), M (còn 22 sản phẩm), S (còn 8 sản phẩm), XL (còn 13 sản phẩm). Tổng tồn kho: 72 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_120",
+    "text": "Sản phẩm: Quần Boxer Lưng Ép Horizonal Stripe. Danh mục: Quần Boxer. Giá: 120,000 VNĐ. Size có sẵn: L (còn 28 sản phẩm), M (còn 92 sản phẩm), S (còn 45 sản phẩm), XL (còn 84 sản phẩm). Tổng tồn kho: 249 sản phẩm. Có 3 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 1,
-      "product_name": "Áo thun nam basic",
-      "category_id": 1,
-      "category_name": "Áo thun",
-      "price": 199000.0,
+      "product_id": 120,
+      "product_name": "Quần Boxer Lưng Ép Horizonal Stripe",
+      "category_id": 13,
+      "category_name": "Quần Boxer",
+      "price": 120000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 72,
+      "total_stock": 249,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_119",
+    "text": "Sản phẩm: Quần Boxer Cooling Seam Press. Danh mục: Quần Boxer. Giá: 120,000 VNĐ. Size có sẵn: L (còn 55 sản phẩm), M (còn 74 sản phẩm), S (còn 19 sản phẩm), XL (còn 90 sản phẩm). Tổng tồn kho: 238 sản phẩm. Đánh giá: 4.0/5 sao từ 1 người mua. Nhận xét: 'Quần hơi mỏng ' (4 sao). Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 119,
+      "product_name": "Quần Boxer Cooling Seam Press",
+      "category_id": 13,
+      "category_name": "Quần Boxer",
+      "price": 120000.0,
+      "avg_rating": 4.0,
+      "review_count": 1,
+      "total_stock": 238,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_118",
+    "text": "Sản phẩm: Quần Boxer Nam Lưng Thun Dệt Logo Fortune Revealed Form Trunks. Danh mục: Quần Boxer. Giá: 120,000 VNĐ. Size có sẵn: L (còn 89 sản phẩm), M (còn 77 sản phẩm), S (còn 64 sản phẩm), XL (còn 98 sản phẩm). Tổng tồn kho: 328 sản phẩm. Có 6 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 118,
+      "product_name": "Quần Boxer Nam Lưng Thun Dệt Logo Fortune Revealed Form Trunks",
+      "category_id": 13,
+      "category_name": "Quần Boxer",
+      "price": 120000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 328,
+      "has_variants": true,
+      "image_count": 6
+    }
+  },
+  {
+    "id": "product_117",
+    "text": "Sản phẩm: Quần Boxer Nam Lưng Ép Monogram Orgnls Lowkey Form Trunks. Danh mục: Quần Boxer. Giá: 120,000 VNĐ. Size có sẵn: L (còn 11 sản phẩm), M (còn 75 sản phẩm), S (còn 75 sản phẩm), XL (còn 29 sản phẩm). Tổng tồn kho: 190 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 117,
+      "product_name": "Quần Boxer Nam Lưng Ép Monogram Orgnls Lowkey Form Trunks",
+      "category_id": 13,
+      "category_name": "Quần Boxer",
+      "price": 120000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 190,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_116",
+    "text": "Sản phẩm: Quần Boxer Nam Active Logo Box Trunks. Danh mục: Quần Boxer. Giá: 120,000 VNĐ. Size có sẵn: L (còn 16 sản phẩm), M (còn 20 sản phẩm), S (còn 14 sản phẩm), XL (còn 9 sản phẩm). Tổng tồn kho: 59 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 116,
+      "product_name": "Quần Boxer Nam Active Logo Box Trunks",
+      "category_id": 13,
+      "category_name": "Quần Boxer",
+      "price": 120000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 59,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_115",
+    "text": "Sản phẩm: Quần Boxer Nam Active Camo Form Trunks. Danh mục: Quần Boxer. Giá: 120,000 VNĐ. Size có sẵn: L (còn 78 sản phẩm), M (còn 53 sản phẩm), S (còn 86 sản phẩm), XL (còn 17 sản phẩm). Tổng tồn kho: 234 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 115,
+      "product_name": "Quần Boxer Nam Active Camo Form Trunks",
+      "category_id": 13,
+      "category_name": "Quần Boxer",
+      "price": 120000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 234,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_114",
+    "text": "Sản phẩm: Quần Boxer Nam Seamless Knit. Danh mục: Quần Boxer. Giá: 100,000 VNĐ. Size có sẵn: L (còn 22 sản phẩm), M (còn 32 sản phẩm), S (còn 3 sản phẩm), XL (còn 10 sản phẩm). Tổng tồn kho: 67 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 114,
+      "product_name": "Quần Boxer Nam Seamless Knit",
+      "category_id": 13,
+      "category_name": "Quần Boxer",
+      "price": 100000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 67,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_113",
+    "text": "Sản phẩm: Quần Boxer Nam Basic Logo Form Trunks. Danh mục: Quần Boxer. Giá: 120,000 VNĐ. Size có sẵn: L (còn 31 sản phẩm), M (còn 43 sản phẩm), S (còn 32 sản phẩm), XL (còn 58 sản phẩm). Tổng tồn kho: 164 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 113,
+      "product_name": "Quần Boxer Nam Basic Logo Form Trunks",
+      "category_id": 13,
+      "category_name": "Quần Boxer",
+      "price": 120000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 164,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_112",
+    "text": "Sản phẩm: Quần Tây Nam Ống Suông Sidetab Form Straight. Danh mục: Quần Tây. Giá: 420,000 VNĐ. Size có sẵn: L (còn 90 sản phẩm), M (còn 23 sản phẩm), S (còn 78 sản phẩm), XL (còn 4 sản phẩm). Tổng tồn kho: 195 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 112,
+      "product_name": "Quần Tây Nam Ống Suông Sidetab Form Straight",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 420000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 195,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_111",
+    "text": "Sản phẩm: Quần Tây Nam Ống Ôm Basic Waistband-Sitching Form Slim. Danh mục: Quần Tây. Giá: 390,000 VNĐ. Size có sẵn: L (còn 14 sản phẩm), M (còn 31 sản phẩm), S (còn 16 sản phẩm), XL (còn 4 sản phẩm). Tổng tồn kho: 65 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 111,
+      "product_name": "Quần Tây Nam Ống Ôm Basic Waistband-Sitching Form Slim",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 390000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 65,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_110",
+    "text": "Sản phẩm: Quần Tây Nam Ống Ôm Dài Form Slim. Danh mục: Quần Tây. Giá: 420,000 VNĐ. Size có sẵn: L (còn 95 sản phẩm), M (còn 12 sản phẩm), S (còn 16 sản phẩm), XL (còn 51 sản phẩm). Tổng tồn kho: 174 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 110,
+      "product_name": "Quần Tây Nam Ống Ôm Dài Form Slim",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 420000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 174,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_109",
+    "text": "Sản phẩm: Quần Tây Nam Ống Ôm Classical Form Slim. Danh mục: Quần Tây. Giá: 390,000 VNĐ. Size có sẵn: L (còn 59 sản phẩm), M (còn 64 sản phẩm), S (còn 20 sản phẩm), XL (còn 63 sản phẩm). Tổng tồn kho: 206 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 109,
+      "product_name": "Quần Tây Nam Ống Ôm Classical Form Slim",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 390000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 206,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_108",
+    "text": "Sản phẩm: Quần Tây Nam Ống Ôm Embroider Back Pocket Form Slim. Danh mục: Quần Tây. Giá: 390,000 VNĐ. Size có sẵn: L (còn 39 sản phẩm), M (còn 87 sản phẩm), S (còn 64 sản phẩm), XL (còn 84 sản phẩm). Tổng tồn kho: 274 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 108,
+      "product_name": "Quần Tây Nam Ống Ôm Embroider Back Pocket Form Slim",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 390000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 274,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_107",
+    "text": "Sản phẩm: Quần Tây Nam Ống Ôm Basic Trousers Form Slim. Danh mục: Quần Tây. Giá: 390,000 VNĐ. Size có sẵn: L (còn 41 sản phẩm), M (còn 52 sản phẩm), S (còn 80 sản phẩm), XL (còn 69 sản phẩm). Tổng tồn kho: 242 sản phẩm. Có 6 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 107,
+      "product_name": "Quần Tây Nam Ống Ôm Basic Trousers Form Slim",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 390000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 242,
+      "has_variants": true,
+      "image_count": 6
+    }
+  },
+  {
+    "id": "product_106",
+    "text": "Sản phẩm: Quần Tây Nam Ống Suông Co Giãn Basic Form Straight. Danh mục: Quần Tây. Giá: 419,000 VNĐ. Size có sẵn: L (còn 11 sản phẩm), M (còn 98 sản phẩm), S (còn 48 sản phẩm), XL (còn 59 sản phẩm). Tổng tồn kho: 216 sản phẩm. Có 8 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 106,
+      "product_name": "Quần Tây Nam Ống Suông Co Giãn Basic Form Straight",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 419000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 216,
+      "has_variants": true,
+      "image_count": 8
+    }
+  },
+  {
+    "id": "product_105",
+    "text": "Sản phẩm: Quần Tây Nam Ống Suông Sidetab Form Crop. Danh mục: Quần Tây. Giá: 429,000 VNĐ. Size có sẵn: L (còn 66 sản phẩm), M (còn 99 sản phẩm), S (còn 36 sản phẩm), XL (còn 55 sản phẩm). Tổng tồn kho: 256 sản phẩm. Có 7 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 105,
+      "product_name": "Quần Tây Nam Ống Suông Sidetab Form Crop",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 256,
+      "has_variants": true,
+      "image_count": 7
+    }
+  },
+  {
+    "id": "product_104",
+    "text": "Sản phẩm: Quần Tây Nam Ống Suông Hidden Elastic Side Waist Form Straight. Danh mục: Quần Tây. Giá: 429,000 VNĐ. Size có sẵn: L (còn 15 sản phẩm), M (còn 52 sản phẩm), S (còn 47 sản phẩm), XL (còn 59 sản phẩm). Tổng tồn kho: 173 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 104,
+      "product_name": "Quần Tây Nam Ống Suông Hidden Elastic Side Waist Form Straight",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 173,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_103",
+    "text": "Sản phẩm: Quần Tây Nam Ống Ôm Button Sidetab Form Slim. Danh mục: Quần Tây. Giá: 449,000 VNĐ. Size có sẵn: L (còn 57 sản phẩm), M (còn 21 sản phẩm), S (còn 41 sản phẩm), XL (còn 20 sản phẩm). Tổng tồn kho: 139 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 103,
+      "product_name": "Quần Tây Nam Ống Ôm Button Sidetab Form Slim",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 139,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_102",
+    "text": "Sản phẩm: Quần Tây Nam Ống Ôm Ratchet Straps Form Slim. Danh mục: Quần Tây. Giá: 420,000 VNĐ. Size có sẵn: L (còn 99 sản phẩm), M (còn 18 sản phẩm), S (còn 46 sản phẩm), XL (còn 1 sản phẩm). Tổng tồn kho: 164 sản phẩm. Có 9 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 102,
+      "product_name": "Quần Tây Nam Ống Ôm Ratchet Straps Form Slim",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 420000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 164,
+      "has_variants": true,
+      "image_count": 9
+    }
+  },
+  {
+    "id": "product_101",
+    "text": "Sản phẩm: Quần Tây Nam Monte Harrison Trousers Form Slim. Danh mục: Quần Tây. Giá: 479,000 VNĐ. Size có sẵn: L (còn 73 sản phẩm), M (còn 74 sản phẩm), S (còn 34 sản phẩm), XL (còn 44 sản phẩm). Tổng tồn kho: 225 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 101,
+      "product_name": "Quần Tây Nam Monte Harrison Trousers Form Slim",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 479000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 225,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_100",
+    "text": "Sản phẩm: Quần Tây Nam Urban Trousers Form Slim Crop. Danh mục: Quần Tây. Giá: 429,000 VNĐ. Size có sẵn: L (còn 51 sản phẩm), M (còn 26 sản phẩm), S (còn 33 sản phẩm), XL (còn 8 sản phẩm). Tổng tồn kho: 118 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 100,
+      "product_name": "Quần Tây Nam Urban Trousers Form Slim Crop",
+      "category_id": 12,
+      "category_name": "Quần Tây",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 118,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_99",
+    "text": "Sản phẩm: Quần Jogger Linen Nam Basic Form Regular. Danh mục: Quần Jogger - Quần Dài. Giá: 389,000 VNĐ. Size có sẵn: L (còn 4 sản phẩm), M (còn 26 sản phẩm), S (còn 62 sản phẩm), XL (còn 58 sản phẩm). Tổng tồn kho: 150 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 99,
+      "product_name": "Quần Jogger Linen Nam Basic Form Regular",
+      "category_id": 11,
+      "category_name": "Quần Jogger - Quần Dài",
+      "price": 389000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 150,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_98",
+    "text": "Sản phẩm: Quần Dài Kaki Nam Wanderlust Form Straight. Danh mục: Quần Jogger - Quần Dài. Giá: 429,000 VNĐ. Size có sẵn: L (còn 51 sản phẩm), M (còn 79 sản phẩm), S (còn 6 sản phẩm), XL (còn 24 sản phẩm). Tổng tồn kho: 160 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 98,
+      "product_name": "Quần Dài Kaki Nam Wanderlust Form Straight",
+      "category_id": 11,
+      "category_name": "Quần Jogger - Quần Dài",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 160,
       "has_variants": true,
       "image_count": 2
     }
   },
   {
-    "id": "product_2",
-    "text": "Sản phẩm: Áo thun nam oversize. Danh mục: Áo thun. Giá: 249,000 VNĐ. Mô tả: Áo thun oversize phong cách Hàn Quốc. Size có sẵn: L (còn 26 sản phẩm), M (còn 20 sản phẩm), S (còn 14 sản phẩm), XL (còn 12 sản phẩm). Tổng tồn kho: 72 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_97",
+    "text": "Sản phẩm: Quần Dài Nam Tatical Geared Form Baggy. Danh mục: Quần Jogger - Quần Dài. Giá: 449,000 VNĐ. Size có sẵn: L (còn 99 sản phẩm), M (còn 46 sản phẩm), S (còn 53 sản phẩm), XL (còn 30 sản phẩm). Tổng tồn kho: 228 sản phẩm. Có 4 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 2,
-      "product_name": "Áo thun nam oversize",
-      "category_id": 1,
-      "category_name": "Áo thun",
+      "product_id": 97,
+      "product_name": "Quần Dài Nam Tatical Geared Form Baggy",
+      "category_id": 11,
+      "category_name": "Quần Jogger - Quần Dài",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 228,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_96",
+    "text": "Sản phẩm: Quần Jogger Nam Dashfield Nỉ Form Regular. Danh mục: Quần Jogger - Quần Dài. Giá: 429,000 VNĐ. Size có sẵn: L (còn 81 sản phẩm), M (còn 91 sản phẩm), S (còn 100 sản phẩm), XL (còn 57 sản phẩm). Tổng tồn kho: 329 sản phẩm. Có 6 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 96,
+      "product_name": "Quần Jogger Nam Dashfield Nỉ Form Regular",
+      "category_id": 11,
+      "category_name": "Quần Jogger - Quần Dài",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 329,
+      "has_variants": true,
+      "image_count": 6
+    }
+  },
+  {
+    "id": "product_95",
+    "text": "Sản phẩm: Quần Jogger Nam Milesway Nỉ Form Baggy. Danh mục: Quần Jogger - Quần Dài. Giá: 399,000 VNĐ. Size có sẵn: L (còn 19 sản phẩm), M (còn 10 sản phẩm), S (còn 44 sản phẩm), XL (còn 61 sản phẩm). Tổng tồn kho: 134 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 95,
+      "product_name": "Quần Jogger Nam Milesway Nỉ Form Baggy",
+      "category_id": 11,
+      "category_name": "Quần Jogger - Quần Dài",
+      "price": 399000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 134,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_94",
+    "text": "Sản phẩm: Quần Dài Nam Linen Ease Trourses Form Regular. Danh mục: Quần Jogger - Quần Dài. Giá: 429,000 VNĐ. Size có sẵn: L (còn 53 sản phẩm), M (còn 92 sản phẩm), S (còn 69 sản phẩm), XL (còn 92 sản phẩm). Tổng tồn kho: 306 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 94,
+      "product_name": "Quần Dài Nam Linen Ease Trourses Form Regular",
+      "category_id": 11,
+      "category_name": "Quần Jogger - Quần Dài",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 306,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_93",
+    "text": "Sản phẩm: Quần Kaki Nam Ống Suông Trơn Fit Classic Form Straight. Danh mục: Quần Kaki & Chino. Giá: 420,000 VNĐ. Size có sẵn: L (còn 50 sản phẩm), M (còn 98 sản phẩm), S (còn 91 sản phẩm), XL (còn 7 sản phẩm). Tổng tồn kho: 246 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 93,
+      "product_name": "Quần Kaki Nam Ống Suông Trơn Fit Classic Form Straight",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 420000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 246,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_92",
+    "text": "Sản phẩm: Quần Kaki Nam Ống Ôm Fundamental Form Slim. Danh mục: Quần Kaki & Chino. Giá: 420,000 VNĐ. Size có sẵn: L (còn 70 sản phẩm), M (còn 13 sản phẩm), S (còn 73 sản phẩm), XL (còn 3 sản phẩm). Tổng tồn kho: 159 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 92,
+      "product_name": "Quần Kaki Nam Ống Ôm Fundamental Form Slim",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 420000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 159,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_91",
+    "text": "Sản phẩm: Quần Kaki Nam Ống Suông Cargo ICDN Tag Form Straight. Danh mục: Quần Kaki & Chino. Giá: 479,000 VNĐ. Size có sẵn: L (còn 13 sản phẩm), M (còn 12 sản phẩm), S (còn 96 sản phẩm), XL (còn 42 sản phẩm). Tổng tồn kho: 163 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 91,
+      "product_name": "Quần Kaki Nam Ống Suông Cargo ICDN Tag Form Straight",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 479000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 163,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_90",
+    "text": "Sản phẩm: Quần Kaki Nam Ống Ôm DetailLine Form Slim Straight. Danh mục: Quần Kaki & Chino. Giá: 419,000 VNĐ. Size có sẵn: L (còn 28 sản phẩm), M (còn 90 sản phẩm), S (còn 73 sản phẩm), XL (còn 8 sản phẩm). Tổng tồn kho: 199 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 90,
+      "product_name": "Quần Kaki Nam Ống Ôm DetailLine Form Slim Straight",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 419000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 199,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_89",
+    "text": "Sản phẩm: Quần Kaki Nam Ống Suông Street-Style Logo Garment-Dyed Form Baggy. Danh mục: Quần Kaki & Chino. Giá: 579,000 VNĐ. Size có sẵn: L (còn 23 sản phẩm), M (còn 89 sản phẩm), S (còn 57 sản phẩm), XL (còn 42 sản phẩm). Tổng tồn kho: 211 sản phẩm. Có 6 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 89,
+      "product_name": "Quần Kaki Nam Ống Suông Street-Style Logo Garment-Dyed Form Baggy",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 579000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 211,
+      "has_variants": true,
+      "image_count": 6
+    }
+  },
+  {
+    "id": "product_88",
+    "text": "Sản phẩm: Quần Kaki Nam Garment Dye With Leather Detail Form Straight. Danh mục: Quần Kaki & Chino. Giá: 529,000 VNĐ. Size có sẵn: L (còn 93 sản phẩm), M (còn 68 sản phẩm), S (còn 91 sản phẩm), XL (còn 88 sản phẩm). Tổng tồn kho: 340 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 88,
+      "product_name": "Quần Kaki Nam Garment Dye With Leather Detail Form Straight",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 529000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 340,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_87",
+    "text": "Sản phẩm: Quần Kaki Nam Ống Suông DualPocket Edge Form Straight. Danh mục: Quần Kaki & Chino. Giá: 529,000 VNĐ. Size có sẵn: L (còn 57 sản phẩm), M (còn 85 sản phẩm), S (còn 63 sản phẩm), XL (còn 64 sản phẩm). Tổng tồn kho: 269 sản phẩm. Có 6 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 87,
+      "product_name": "Quần Kaki Nam Ống Suông DualPocket Edge Form Straight",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 529000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 269,
+      "has_variants": true,
+      "image_count": 6
+    }
+  },
+  {
+    "id": "product_86",
+    "text": "Sản phẩm: Quần Kaki Nam Essential Baggy Pants Form Baggy. Danh mục: Quần Kaki & Chino. Giá: 449,000 VNĐ. Size có sẵn: L (còn 13 sản phẩm), M (còn 10 sản phẩm), S (còn 93 sản phẩm), XL (còn 68 sản phẩm). Tổng tồn kho: 184 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 86,
+      "product_name": "Quần Kaki Nam Essential Baggy Pants Form Baggy",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 184,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_85",
+    "text": "Sản phẩm: Quần Kaki Nam Classic Fit Sideband Form Straight. Danh mục: Quần Kaki & Chino. Giá: 429,000 VNĐ. Size có sẵn: L (còn 83 sản phẩm), M (còn 22 sản phẩm), S (còn 66 sản phẩm), XL (còn 98 sản phẩm). Tổng tồn kho: 269 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 85,
+      "product_name": "Quần Kaki Nam Classic Fit Sideband Form Straight",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 269,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_84",
+    "text": "Sản phẩm: Quần Kaki Nam Ống Ôm StrecthBand Form Slim. Danh mục: Quần Kaki & Chino. Giá: 479,000 VNĐ. Size có sẵn: L (còn 75 sản phẩm), M (còn 50 sản phẩm), S (còn 91 sản phẩm), XL (còn 4 sản phẩm). Tổng tồn kho: 220 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 84,
+      "product_name": "Quần Kaki Nam Ống Ôm StrecthBand Form Slim",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 479000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 220,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_83",
+    "text": "Sản phẩm: Quần Kaki Nam Wash ID Form Straight. Danh mục: Quần Kaki & Chino. Giá: 479,000 VNĐ. Size có sẵn: L (còn 37 sản phẩm), M (còn 24 sản phẩm), S (còn 8 sản phẩm), XL (còn 59 sản phẩm). Tổng tồn kho: 128 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 83,
+      "product_name": "Quần Kaki Nam Wash ID Form Straight",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 479000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 128,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_82",
+    "text": "Sản phẩm: Quần Kaki Nam Classic Five Form Slim. Danh mục: Quần Kaki & Chino. Giá: 449,000 VNĐ. Size có sẵn: L (còn 61 sản phẩm), M (còn 83 sản phẩm), S (còn 43 sản phẩm), XL (còn 47 sản phẩm). Tổng tồn kho: 234 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 82,
+      "product_name": "Quần Kaki Nam Classic Five Form Slim",
+      "category_id": 10,
+      "category_name": "Quần Kaki & Chino",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 234,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_81",
+    "text": "Sản phẩm: Quần Short Nam Essential Stretch Pants Form Regular. Danh mục: Quần Short. Giá: 349,000 VNĐ. Size có sẵn: L (còn 77 sản phẩm), M (còn 67 sản phẩm), S (còn 40 sản phẩm), XL (còn 82 sản phẩm). Tổng tồn kho: 266 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 81,
+      "product_name": "Quần Short Nam Essential Stretch Pants Form Regular",
+      "category_id": 9,
+      "category_name": "Quần Short",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 266,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_80",
+    "text": "Sản phẩm: Quần Short Nam ID Monogram Pattern Form Regular. Danh mục: Quần Short. Giá: 379,000 VNĐ. Size có sẵn: L (còn 28 sản phẩm), M (còn 16 sản phẩm), S (còn 88 sản phẩm), XL (còn 91 sản phẩm). Tổng tồn kho: 223 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 80,
+      "product_name": "Quần Short Nam ID Monogram Pattern Form Regular",
+      "category_id": 9,
+      "category_name": "Quần Short",
+      "price": 379000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 223,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_79",
+    "text": "Sản phẩm: Quần Short Nam Earthbound Pallete Form Regular. Danh mục: Quần Short. Giá: 349,000 VNĐ. Size có sẵn: L (còn 44 sản phẩm), M (còn 21 sản phẩm), S (còn 71 sản phẩm), XL (còn 82 sản phẩm). Tổng tồn kho: 218 sản phẩm. Có 6 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 79,
+      "product_name": "Quần Short Nam Earthbound Pallete Form Regular",
+      "category_id": 9,
+      "category_name": "Quần Short",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 218,
+      "has_variants": true,
+      "image_count": 6
+    }
+  },
+  {
+    "id": "product_78",
+    "text": "Sản phẩm: Quần Short Nam Denim Cotton Star Form Loose. Danh mục: Quần Short. Giá: 419,000 VNĐ. Size có sẵn: L (còn 64 sản phẩm), M (còn 40 sản phẩm), S (còn 85 sản phẩm), XL (còn 11 sản phẩm). Tổng tồn kho: 200 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 78,
+      "product_name": "Quần Short Nam Denim Cotton Star Form Loose",
+      "category_id": 9,
+      "category_name": "Quần Short",
+      "price": 419000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 200,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_77",
+    "text": "Sản phẩm: Quần Short Nam Kaki Movement Form Regular. Danh mục: Quần Short. Giá: 349,000 VNĐ. Size có sẵn: L (còn 69 sản phẩm), M (còn 57 sản phẩm), S (còn 13 sản phẩm), XL (còn 56 sản phẩm). Tổng tồn kho: 195 sản phẩm. Có 6 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 77,
+      "product_name": "Quần Short Nam Kaki Movement Form Regular",
+      "category_id": 9,
+      "category_name": "Quần Short",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 195,
+      "has_variants": true,
+      "image_count": 6
+    }
+  },
+  {
+    "id": "product_76",
+    "text": "Sản phẩm: Quần Short Jean Nam Siêu Nhẹ ICON105 Mid Blue Form Loose. Danh mục: Quần Short. Giá: 429,000 VNĐ. Size có sẵn: L (còn 13 sản phẩm), M (còn 97 sản phẩm), S (còn 10 sản phẩm), XL (còn 56 sản phẩm). Tổng tồn kho: 176 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 76,
+      "product_name": "Quần Short Jean Nam Siêu Nhẹ ICON105 Mid Blue Form Loose",
+      "category_id": 9,
+      "category_name": "Quần Short",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 176,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_75",
+    "text": "Sản phẩm: Quần Jean Nam Siêu Nhẹ Dark Grey ICON105 Form Loose. Danh mục: Quần Short. Giá: 429,000 VNĐ. Size có sẵn: L (còn 81 sản phẩm), M (còn 34 sản phẩm), S (còn 14 sản phẩm), XL (còn 88 sản phẩm). Tổng tồn kho: 217 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 75,
+      "product_name": "Quần Jean Nam Siêu Nhẹ Dark Grey ICON105 Form Loose",
+      "category_id": 9,
+      "category_name": "Quần Short",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 217,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_74",
+    "text": "Sản phẩm: Quần Short Nỉ Nam Base Unit Form Regular. Danh mục: Quần Short. Giá: 249,000 VNĐ. Size có sẵn: L (còn 56 sản phẩm), M (còn 79 sản phẩm), S (còn 71 sản phẩm), XL (còn 47 sản phẩm). Tổng tồn kho: 253 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 74,
+      "product_name": "Quần Short Nỉ Nam Base Unit Form Regular",
+      "category_id": 9,
+      "category_name": "Quần Short",
       "price": 249000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 72,
+      "total_stock": 253,
       "has_variants": true,
-      "image_count": 2
+      "image_count": 5
     }
   },
   {
-    "id": "product_3",
-    "text": "Sản phẩm: Áo sơ mi trắng công sở. Danh mục: Áo sơ mi. Giá: 299,000 VNĐ. Mô tả: Áo sơ mi nam trắng lịch sự. Size có sẵn: L (còn 25 sản phẩm), M (còn 20 sản phẩm), S (còn 15 sản phẩm), XL (còn 10 sản phẩm). Tổng tồn kho: 70 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_73",
+    "text": "Sản phẩm: Quần Short Nam Kaki Strecth Cargo Form Regular. Danh mục: Quần Short. Giá: 379,000 VNĐ. Size có sẵn: L (còn 32 sản phẩm), M (còn 52 sản phẩm), S (còn 1 sản phẩm), XL (còn 56 sản phẩm). Tổng tồn kho: 141 sản phẩm. Có 4 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 3,
-      "product_name": "Áo sơ mi trắng công sở",
-      "category_id": 2,
-      "category_name": "Áo sơ mi",
-      "price": 299000.0,
+      "product_id": 73,
+      "product_name": "Quần Short Nam Kaki Strecth Cargo Form Regular",
+      "category_id": 9,
+      "category_name": "Quần Short",
+      "price": 379000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 70,
+      "total_stock": 141,
       "has_variants": true,
-      "image_count": 2
+      "image_count": 4
     }
   },
   {
-    "id": "product_4",
-    "text": "Sản phẩm: Áo sơ mi caro. Danh mục: Áo sơ mi. Giá: 329,000 VNĐ. Mô tả: Áo sơ mi caro trẻ trung. Size có sẵn: L (còn 20 sản phẩm), M (còn 14 sản phẩm), S (còn 12 sản phẩm), XL (còn 8 sản phẩm). Tổng tồn kho: 54 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_72",
+    "text": "Sản phẩm: Quần Short Nam Orgnls Raw Edge Shorts Form Loose. Danh mục: Quần Short. Giá: 429,000 VNĐ. Size có sẵn: L (còn 92 sản phẩm), M (còn 71 sản phẩm), S (còn 97 sản phẩm), XL (còn 85 sản phẩm). Tổng tồn kho: 345 sản phẩm. Có 6 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 4,
-      "product_name": "Áo sơ mi caro",
-      "category_id": 2,
-      "category_name": "Áo sơ mi",
-      "price": 329000.0,
+      "product_id": 72,
+      "product_name": "Quần Short Nam Orgnls Raw Edge Shorts Form Loose",
+      "category_id": 9,
+      "category_name": "Quần Short",
+      "price": 429000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 54,
+      "total_stock": 345,
       "has_variants": true,
-      "image_count": 2
+      "image_count": 6
     }
   },
   {
-    "id": "product_5",
-    "text": "Sản phẩm: Áo khoác bomber. Danh mục: Áo khoác. Giá: 499,000 VNĐ. Mô tả: Áo khoác bomber nam cá tính. Size có sẵn: L (còn 20 sản phẩm), M (còn 15 sản phẩm), S (còn 10 sản phẩm), XL (còn 10 sản phẩm). Tổng tồn kho: 55 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_71",
+    "text": "Sản phẩm: Quần Jean Nam Xám Trắng Ống Suông Dirt Wash Form Baggy. Danh mục: Quần Jean. Giá: 549,000 VNĐ. Size có sẵn: L (còn 20 sản phẩm), M (còn 83 sản phẩm), S (còn 33 sản phẩm), XL (còn 28 sản phẩm). Tổng tồn kho: 164 sản phẩm. Có 2 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 5,
-      "product_name": "Áo khoác bomber",
-      "category_id": 3,
-      "category_name": "Áo khoác",
-      "price": 499000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 55,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_6",
-    "text": "Sản phẩm: Áo khoác jeans. Danh mục: Áo khoác. Giá: 549,000 VNĐ. Mô tả: Áo khoác jeans nam năng động. Size có sẵn: L (còn 18 sản phẩm), M (còn 16 sản phẩm), S (còn 10 sản phẩm), XL (còn 9 sản phẩm). Tổng tồn kho: 53 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 6,
-      "product_name": "Áo khoác jeans",
-      "category_id": 3,
-      "category_name": "Áo khoác",
+      "product_id": 71,
+      "product_name": "Quần Jean Nam Xám Trắng Ống Suông Dirt Wash Form Baggy",
+      "category_id": 8,
+      "category_name": "Quần Jean",
       "price": 549000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 53,
+      "total_stock": 164,
       "has_variants": true,
       "image_count": 2
     }
   },
   {
-    "id": "product_7",
-    "text": "Sản phẩm: Áo polo trơn. Danh mục: Áo polo. Giá: 279,000 VNĐ. Mô tả: Áo polo nam trơn, dễ phối đồ. Size có sẵn: L (còn 30 sản phẩm), M (còn 25 sản phẩm), S (còn 20 sản phẩm), XL (còn 15 sản phẩm). Tổng tồn kho: 90 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_70",
+    "text": "Sản phẩm: Quần Jean Nam Ink Navy Form Baggy. Danh mục: Quần Jean. Giá: 549,000 VNĐ. Size có sẵn: L (còn 36 sản phẩm), M (còn 86 sản phẩm), S (còn 26 sản phẩm), XL (còn 64 sản phẩm). Tổng tồn kho: 212 sản phẩm. Có 3 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 7,
-      "product_name": "Áo polo trơn",
-      "category_id": 4,
-      "category_name": "Áo polo",
-      "price": 279000.0,
+      "product_id": 70,
+      "product_name": "Quần Jean Nam Ink Navy Form Baggy",
+      "category_id": 8,
+      "category_name": "Quần Jean",
+      "price": 549000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 90,
+      "total_stock": 212,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_69",
+    "text": "Sản phẩm: Quần Jean Nam Grey Form Baggy. Danh mục: Quần Jean. Giá: 549,000 VNĐ. Size có sẵn: L (còn 47 sản phẩm), M (còn 96 sản phẩm), S (còn 7 sản phẩm), XL (còn 5 sản phẩm). Tổng tồn kho: 155 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 69,
+      "product_name": "Quần Jean Nam Grey Form Baggy",
+      "category_id": 8,
+      "category_name": "Quần Jean",
+      "price": 549000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 155,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_68",
+    "text": "Sản phẩm: Quần Jean Nam Siêu Nhẹ Ống Suông Indigo ICON105 Form Straight. Danh mục: Quần Jean. Giá: 599,000 VNĐ. Size có sẵn: L (còn 6 sản phẩm), M (còn 58 sản phẩm), S (còn 76 sản phẩm), XL (còn 6 sản phẩm). Tổng tồn kho: 146 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 68,
+      "product_name": "Quần Jean Nam Siêu Nhẹ Ống Suông Indigo ICON105 Form Straight",
+      "category_id": 8,
+      "category_name": "Quần Jean",
+      "price": 599000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 146,
       "has_variants": true,
       "image_count": 2
     }
   },
   {
-    "id": "product_8",
-    "text": "Sản phẩm: Áo polo thể thao. Danh mục: Áo polo. Giá: 299,000 VNĐ. Mô tả: Áo polo nam thoáng mát. Size có sẵn: L (còn 26 sản phẩm), M (còn 22 sản phẩm), S (còn 18 sản phẩm), XL (còn 12 sản phẩm). Tổng tồn kho: 78 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_67",
+    "text": "Sản phẩm: Quần Jean Nam Cotton Offwhite Form Baggy. Danh mục: Quần Jean. Giá: 549,000 VNĐ. Size có sẵn: L (còn 38 sản phẩm), M (còn 96 sản phẩm), S (còn 83 sản phẩm), XL (còn 77 sản phẩm). Tổng tồn kho: 294 sản phẩm. Có 3 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 8,
-      "product_name": "Áo polo thể thao",
-      "category_id": 4,
-      "category_name": "Áo polo",
+      "product_id": 67,
+      "product_name": "Quần Jean Nam Cotton Offwhite Form Baggy",
+      "category_id": 8,
+      "category_name": "Quần Jean",
+      "price": 549000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 294,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_66",
+    "text": "Sản phẩm: Quần Smart Jeans Nam Siêu Co Dãn Grey Form Smart Fit. Danh mục: Quần Jean. Giá: 599,000 VNĐ. Size có sẵn: L (còn 95 sản phẩm), M (còn 21 sản phẩm), S (còn 17 sản phẩm), XL (còn 84 sản phẩm). Tổng tồn kho: 217 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 66,
+      "product_name": "Quần Smart Jeans Nam Siêu Co Dãn Grey Form Smart Fit",
+      "category_id": 8,
+      "category_name": "Quần Jean",
+      "price": 599000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 217,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_65",
+    "text": "Sản phẩm: Quần Jean Nam Hoạ Tiết Jacquard Form Straight. Danh mục: Quần Jean. Giá: 549,000 VNĐ. Size có sẵn: L (còn 47 sản phẩm), M (còn 3 sản phẩm), S (còn 72 sản phẩm), XL (còn 81 sản phẩm). Tổng tồn kho: 203 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 65,
+      "product_name": "Quần Jean Nam Hoạ Tiết Jacquard Form Straight",
+      "category_id": 8,
+      "category_name": "Quần Jean",
+      "price": 549000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 203,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_64",
+    "text": "Sản phẩm: Quần Jeans Nam Paints Form Straight. Danh mục: Quần Jean. Giá: 549,000 VNĐ. Size có sẵn: L (còn 78 sản phẩm), M (còn 50 sản phẩm), S (còn 99 sản phẩm), XL (còn 90 sản phẩm). Tổng tồn kho: 317 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 64,
+      "product_name": "Quần Jeans Nam Paints Form Straight",
+      "category_id": 8,
+      "category_name": "Quần Jean",
+      "price": 549000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 317,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_63",
+    "text": "Sản phẩm: Quần Jean Nam Streetline Form Smart Fit. Danh mục: Quần Jean. Giá: 549,000 VNĐ. Size có sẵn: L (còn 73 sản phẩm), M (còn 56 sản phẩm), S (còn 81 sản phẩm), XL (còn 57 sản phẩm). Tổng tồn kho: 267 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 63,
+      "product_name": "Quần Jean Nam Streetline Form Smart Fit",
+      "category_id": 8,
+      "category_name": "Quần Jean",
+      "price": 549000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 267,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_62",
+    "text": "Sản phẩm: Quần Jeans Nam Vintage Washed Blue Form Baggy. Danh mục: Quần Jean. Giá: 549,000 VNĐ. Size có sẵn: L (còn 1 sản phẩm), M (còn 66 sản phẩm), S (còn 59 sản phẩm), XL (còn 14 sản phẩm). Tổng tồn kho: 140 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 62,
+      "product_name": "Quần Jeans Nam Vintage Washed Blue Form Baggy",
+      "category_id": 8,
+      "category_name": "Quần Jean",
+      "price": 549000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 140,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_61",
+    "text": "Sản phẩm: Áo TankTop Lưới Nam Hoạ Tiết Sundaze Rush Form Regular. Danh mục: Tank Top - Áo Ba Lỗ. Giá: 190,000 VNĐ. Size có sẵn: L (còn 52 sản phẩm), M (còn 27 sản phẩm), S (còn 94 sản phẩm), XL (còn 11 sản phẩm). Tổng tồn kho: 184 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 61,
+      "product_name": "Áo TankTop Lưới Nam Hoạ Tiết Sundaze Rush Form Regular",
+      "category_id": 7,
+      "category_name": "Tank Top - Áo Ba Lỗ",
+      "price": 190000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 184,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_60",
+    "text": "Sản phẩm: Áo Tanktop Nam Sticker ID Form Regular. Danh mục: Tank Top - Áo Ba Lỗ. Giá: 190,000 VNĐ. Size có sẵn: L (còn 86 sản phẩm), M (còn 21 sản phẩm), S (còn 73 sản phẩm), XL (còn 33 sản phẩm). Tổng tồn kho: 213 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 60,
+      "product_name": "Áo Tanktop Nam Sticker ID Form Regular",
+      "category_id": 7,
+      "category_name": "Tank Top - Áo Ba Lỗ",
+      "price": 190000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 213,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_59",
+    "text": "Sản phẩm: Áo Tanktop Nam In Nổi Strokes Orgnls Form Regular. Danh mục: Tank Top - Áo Ba Lỗ. Giá: 299,000 VNĐ. Size có sẵn: L (còn 68 sản phẩm), M (còn 38 sản phẩm), S (còn 19 sản phẩm), XL (còn 27 sản phẩm). Tổng tồn kho: 152 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 59,
+      "product_name": "Áo Tanktop Nam In Nổi Strokes Orgnls Form Regular",
+      "category_id": 7,
+      "category_name": "Tank Top - Áo Ba Lỗ",
       "price": 299000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 78,
+      "total_stock": 152,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_58",
+    "text": "Sản phẩm: Áo Tanktop Nam Daily Tank Form Regular. Danh mục: Tank Top - Áo Ba Lỗ. Giá: 219,000 VNĐ. Size có sẵn: L (còn 27 sản phẩm), M (còn 13 sản phẩm), S (còn 71 sản phẩm), XL (còn 17 sản phẩm). Tổng tồn kho: 128 sản phẩm. Có 6 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 58,
+      "product_name": "Áo Tanktop Nam Daily Tank Form Regular",
+      "category_id": 7,
+      "category_name": "Tank Top - Áo Ba Lỗ",
+      "price": 219000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 128,
+      "has_variants": true,
+      "image_count": 6
+    }
+  },
+  {
+    "id": "product_57",
+    "text": "Sản phẩm: Áo Tank Top Nam Rust Form Relaxed. Danh mục: Tank Top - Áo Ba Lỗ. Giá: 279,000 VNĐ. Size có sẵn: L (còn 65 sản phẩm), M (còn 1 sản phẩm), S (còn 61 sản phẩm), XL (còn 46 sản phẩm). Tổng tồn kho: 173 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 57,
+      "product_name": "Áo Tank Top Nam Rust Form Relaxed",
+      "category_id": 7,
+      "category_name": "Tank Top - Áo Ba Lỗ",
+      "price": 279000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 173,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_56",
+    "text": "Sản phẩm: Áo Tanktop Nam Strike Zone Mesh Form Relaxed. Danh mục: Tank Top - Áo Ba Lỗ. Giá: 249,000 VNĐ. Size có sẵn: L (còn 33 sản phẩm), M (còn 15 sản phẩm), S (còn 53 sản phẩm), XL (còn 56 sản phẩm). Tổng tồn kho: 157 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 56,
+      "product_name": "Áo Tanktop Nam Strike Zone Mesh Form Relaxed",
+      "category_id": 7,
+      "category_name": "Tank Top - Áo Ba Lỗ",
+      "price": 249000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 157,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_55",
+    "text": "Sản phẩm: Áo Hoodie Nam Orgnls Typography With Tape. Danh mục: Hoodie. Giá: 489,000 VNĐ. Size có sẵn: L (còn 54 sản phẩm), M (còn 83 sản phẩm), S (còn 13 sản phẩm), XL (còn 12 sản phẩm). Tổng tồn kho: 162 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 55,
+      "product_name": "Áo Hoodie Nam Orgnls Typography With Tape",
+      "category_id": 6,
+      "category_name": "Hoodie",
+      "price": 489000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 162,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_54",
+    "text": "Sản phẩm: Áo Hoodie Nam Spiritual Quotes Form Regular. Danh mục: Hoodie. Giá: 449,000 VNĐ. Size có sẵn: L (còn 94 sản phẩm), M (còn 96 sản phẩm), S (còn 44 sản phẩm), XL (còn 11 sản phẩm). Tổng tồn kho: 245 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 54,
+      "product_name": "Áo Hoodie Nam Spiritual Quotes Form Regular",
+      "category_id": 6,
+      "category_name": "Hoodie",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 245,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_53",
+    "text": "Sản phẩm: Áo Hoodie Nam Họa Tiết Mickey & Friends Shinning Time Form Oversize. Danh mục: Hoodie. Giá: 549,000 VNĐ. Size có sẵn: L (còn 56 sản phẩm), M (còn 84 sản phẩm), S (còn 52 sản phẩm), XL (còn 31 sản phẩm). Tổng tồn kho: 223 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 53,
+      "product_name": "Áo Hoodie Nam Họa Tiết Mickey & Friends Shinning Time Form Oversize",
+      "category_id": 6,
+      "category_name": "Hoodie",
+      "price": 549000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 223,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_52",
+    "text": "Sản phẩm: Áo Khoác Hoodie Nam Orgnls Hand-Drawn Chain Stitch Lettering Form Regular. Danh mục: Hoodie. Giá: 499,000 VNĐ. Size có sẵn: L (còn 65 sản phẩm), M (còn 35 sản phẩm), S (còn 18 sản phẩm), XL (còn 40 sản phẩm). Tổng tồn kho: 158 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 52,
+      "product_name": "Áo Khoác Hoodie Nam Orgnls Hand-Drawn Chain Stitch Lettering Form Regular",
+      "category_id": 6,
+      "category_name": "Hoodie",
+      "price": 499000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 158,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_51",
+    "text": "Sản phẩm: Áo Khoác Hoodie Zip Nam Mixing Horizontal Stripes Form Loose. Danh mục: Hoodie. Giá: 449,000 VNĐ. Size có sẵn: L (còn 84 sản phẩm), M (còn 47 sản phẩm), S (còn 6 sản phẩm), XL (còn 28 sản phẩm). Tổng tồn kho: 165 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 51,
+      "product_name": "Áo Khoác Hoodie Zip Nam Mixing Horizontal Stripes Form Loose",
+      "category_id": 6,
+      "category_name": "Hoodie",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 165,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_50",
+    "text": "Sản phẩm: Áo Hoodie Nam Nỉ Explore Form Loose. Danh mục: Hoodie. Giá: 449,000 VNĐ. Size có sẵn: L (còn 74 sản phẩm), M (còn 27 sản phẩm), S (còn 96 sản phẩm), XL (còn 9 sản phẩm). Tổng tồn kho: 206 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 50,
+      "product_name": "Áo Hoodie Nam Nỉ Explore Form Loose",
+      "category_id": 6,
+      "category_name": "Hoodie",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 206,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_49",
+    "text": "Sản phẩm: Áo Hoodie Nam Rubber Nỉ Cào Bông Form Loose. Danh mục: Hoodie. Giá: 499,000 VNĐ. Size có sẵn: L (còn 43 sản phẩm), M (còn 36 sản phẩm), S (còn 76 sản phẩm), XL (còn 52 sản phẩm). Tổng tồn kho: 207 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 49,
+      "product_name": "Áo Hoodie Nam Rubber Nỉ Cào Bông Form Loose",
+      "category_id": 6,
+      "category_name": "Hoodie",
+      "price": 499000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 207,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_48",
+    "text": "Sản phẩm: Áo Nỉ Nam Họa Tiết Mickey & Friends Bring The Bold Form Regular. Danh mục: Áo Nỉ Và Len. Giá: 449,000 VNĐ. Size có sẵn: L (còn 56 sản phẩm), M (còn 67 sản phẩm), S (còn 34 sản phẩm), XL (còn 42 sản phẩm). Tổng tồn kho: 199 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 48,
+      "product_name": "Áo Nỉ Nam Họa Tiết Mickey & Friends Bring The Bold Form Regular",
+      "category_id": 5,
+      "category_name": "Áo Nỉ Và Len",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 199,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_47",
+    "text": "Sản phẩm: Áo Len Nam Cardigan Basic Thêu Logo. Danh mục: Áo Nỉ Và Len. Giá: 549,000 VNĐ. Size có sẵn: L (còn 90 sản phẩm), M (còn 33 sản phẩm), S (còn 28 sản phẩm), XL (còn 24 sản phẩm). Tổng tồn kho: 175 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 47,
+      "product_name": "Áo Len Nam Cardigan Basic Thêu Logo",
+      "category_id": 5,
+      "category_name": "Áo Nỉ Và Len",
+      "price": 549000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 175,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_46",
+    "text": "Sản phẩm: Áo Nỉ Sweatshirt Nam Track Life Nỉ Form Regular. Danh mục: Áo Nỉ Và Len. Giá: 379,000 VNĐ. Size có sẵn: L (còn 51 sản phẩm), M (còn 63 sản phẩm), S (còn 82 sản phẩm), XL (còn 42 sản phẩm). Tổng tồn kho: 238 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 46,
+      "product_name": "Áo Nỉ Sweatshirt Nam Track Life Nỉ Form Regular",
+      "category_id": 5,
+      "category_name": "Áo Nỉ Và Len",
+      "price": 379000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 238,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_45",
+    "text": "Sản phẩm: Áo Khoác Nỉ Nam Rally Zip Form Regular. Danh mục: Áo Nỉ Và Len. Giá: 499,000 VNĐ. Size có sẵn: L (còn 20 sản phẩm), M (còn 72 sản phẩm), S (còn 94 sản phẩm), XL (còn 37 sản phẩm). Tổng tồn kho: 223 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 45,
+      "product_name": "Áo Khoác Nỉ Nam Rally Zip Form Regular",
+      "category_id": 5,
+      "category_name": "Áo Nỉ Và Len",
+      "price": 499000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 223,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_44",
+    "text": "Sản phẩm: Áo Nỉ Sweatshirt Nam Heritage Stripe Nỉ Form Regular. Danh mục: Áo Nỉ Và Len. Giá: 419,000 VNĐ. Size có sẵn: L (còn 18 sản phẩm), M (còn 53 sản phẩm), S (còn 96 sản phẩm), XL (còn 44 sản phẩm). Tổng tồn kho: 211 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 44,
+      "product_name": "Áo Nỉ Sweatshirt Nam Heritage Stripe Nỉ Form Regular",
+      "category_id": 5,
+      "category_name": "Áo Nỉ Và Len",
+      "price": 419000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 211,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_43",
+    "text": "Sản phẩm: Áo Nỉ Sweatshirt Nam Intramural Pique CVC Form Regular. Danh mục: Áo Nỉ Và Len. Giá: 379,000 VNĐ. Size có sẵn: L (còn 84 sản phẩm), M (còn 91 sản phẩm), S (còn 70 sản phẩm), XL (còn 79 sản phẩm). Tổng tồn kho: 324 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 43,
+      "product_name": "Áo Nỉ Sweatshirt Nam Intramural Pique CVC Form Regular",
+      "category_id": 5,
+      "category_name": "Áo Nỉ Và Len",
+      "price": 379000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 324,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_42",
+    "text": "Sản phẩm: Áo Khoác Nam Hoodie Zip Orgnls Form Regular. Danh mục: Hoodie. Giá: 449,000 VNĐ. Size có sẵn: L (còn 50 sản phẩm), M (còn 93 sản phẩm), S (còn 62 sản phẩm), XL (còn 76 sản phẩm). Tổng tồn kho: 281 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 42,
+      "product_name": "Áo Khoác Nam Hoodie Zip Orgnls Form Regular",
+      "category_id": 6,
+      "category_name": "Hoodie",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 281,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_41",
+    "text": "Sản phẩm: Áo Sweatshirt Nam Varsity States Form Regular. Danh mục: Áo Nỉ Và Len. Giá: 399,000 VNĐ. Size có sẵn: L (còn 14 sản phẩm), M (còn 87 sản phẩm), S (còn 38 sản phẩm), XL (còn 45 sản phẩm). Tổng tồn kho: 184 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 41,
+      "product_name": "Áo Sweatshirt Nam Varsity States Form Regular",
+      "category_id": 5,
+      "category_name": "Áo Nỉ Và Len",
+      "price": 399000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 184,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_40",
+    "text": "Sản phẩm: Áo Khoác Phao Ghile Nam Conjugate Fiber 9D Form Regular. Danh mục: Áo Khoác. Giá: 549,000 VNĐ. Size có sẵn: L (còn 16 sản phẩm), M (còn 27 sản phẩm), S (còn 89 sản phẩm), XL (còn 37 sản phẩm). Tổng tồn kho: 169 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 40,
+      "product_name": "Áo Khoác Phao Ghile Nam Conjugate Fiber 9D Form Regular",
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "price": 549000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 169,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_39",
+    "text": "Sản phẩm: Áo Khoác Jean Nam Siêu Nhẹ ICON105 Lightweight Indigo Form Loose. Danh mục: Áo Khoác. Giá: 649,000 VNĐ. Size có sẵn: L (còn 78 sản phẩm), M (còn 20 sản phẩm), S (còn 85 sản phẩm), XL (còn 77 sản phẩm). Tổng tồn kho: 260 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 39,
+      "product_name": "Áo Khoác Jean Nam Siêu Nhẹ ICON105 Lightweight Indigo Form Loose",
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "price": 649000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 260,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_38",
+    "text": "Sản phẩm: Áo Khoác Nam Da Lộn Stonewell Form Regular. Danh mục: Áo Khoác. Giá: 629,000 VNĐ. Size có sẵn: L (còn 29 sản phẩm), M (còn 35 sản phẩm), S (còn 9 sản phẩm), XL (còn 30 sản phẩm). Tổng tồn kho: 103 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 38,
+      "product_name": "Áo Khoác Nam Da Lộn Stonewell Form Regular",
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "price": 629000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 103,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_37",
+    "text": "Sản phẩm: Áo Khoác Kaki Nam Origin Jacket Form Regular. Danh mục: Áo Khoác. Giá: 649,000 VNĐ. Size có sẵn: L (còn 5 sản phẩm), M (còn 90 sản phẩm), S (còn 61 sản phẩm), XL (còn 63 sản phẩm). Tổng tồn kho: 219 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 37,
+      "product_name": "Áo Khoác Kaki Nam Origin Jacket Form Regular",
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "price": 649000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 219,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_36",
+    "text": "Sản phẩm: Áo Khoác Flannel Nam Detention Form Loose. Danh mục: Áo Khoác. Giá: 449,000 VNĐ. Size có sẵn: L (còn 5 sản phẩm), M (còn 16 sản phẩm), S (còn 75 sản phẩm), XL (còn 35 sản phẩm). Tổng tồn kho: 131 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 36,
+      "product_name": "Áo Khoác Flannel Nam Detention Form Loose",
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 131,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_35",
+    "text": "Sản phẩm: Áo Khoác Jean Nam Trucker Steel Mark Form Regular. Danh mục: Áo Khoác. Giá: 629,000 VNĐ. Size có sẵn: L (còn 65 sản phẩm), M (còn 46 sản phẩm), S (còn 30 sản phẩm), XL (còn 81 sản phẩm). Tổng tồn kho: 222 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 35,
+      "product_name": "Áo Khoác Jean Nam Trucker Steel Mark Form Regular",
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "price": 629000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 222,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_34",
+    "text": "Sản phẩm: Áo Khoác Nam Varsity Orginals Form Regular. Danh mục: Áo Khoác. Giá: 699,000 VNĐ. Size có sẵn: L (còn 7 sản phẩm), M (còn 87 sản phẩm), S (còn 99 sản phẩm), XL (còn 97 sản phẩm). Tổng tồn kho: 290 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 34,
+      "product_name": "Áo Khoác Nam Varsity Orginals Form Regular",
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "price": 699000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 290,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_33",
+    "text": "Sản phẩm: Áo Khoác Nam Heritage Varsity Form Regular. Danh mục: Áo Khoác. Giá: 699,000 VNĐ. Size có sẵn: L (còn 57 sản phẩm), M (còn 96 sản phẩm), S (còn 41 sản phẩm), XL (còn 36 sản phẩm). Tổng tồn kho: 230 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 33,
+      "product_name": "Áo Khoác Nam Heritage Varsity Form Regular",
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "price": 699000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 230,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_32",
+    "text": "Sản phẩm: Áo Khoác Jeans Nam Offwhite Pocket Form Loose. Danh mục: Áo Khoác. Giá: 599,000 VNĐ. Size có sẵn: L (còn 22 sản phẩm), M (còn 68 sản phẩm), S (còn 34 sản phẩm), XL (còn 3 sản phẩm). Tổng tồn kho: 127 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 32,
+      "product_name": "Áo Khoác Jeans Nam Offwhite Pocket Form Loose",
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "price": 599000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 127,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_31",
+    "text": "Sản phẩm: Áo khoác phao Nam Snowward Form Regular. Danh mục: Áo Khoác. Giá: 799,000 VNĐ. Size có sẵn: L (còn 48 sản phẩm), M (còn 67 sản phẩm), S (còn 13 sản phẩm), XL (còn 90 sản phẩm). Tổng tồn kho: 218 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 31,
+      "product_name": "Áo khoác phao Nam Snowward Form Regular",
+      "category_id": 4,
+      "category_name": "Áo Khoác",
+      "price": 799000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 218,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_30",
+    "text": "Sản phẩm: Áo Sơ Mi Tay Dài Nam ID Embroidery Stripped Shirt Form Regular. Danh mục: Áo Sơmi. Giá: 349,000 VNĐ. Size có sẵn: L (còn 76 sản phẩm), M (còn 5 sản phẩm), S (còn 25 sản phẩm), XL (còn 34 sản phẩm). Tổng tồn kho: 140 sản phẩm. Có 7 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 30,
+      "product_name": "Áo Sơ Mi Tay Dài Nam ID Embroidery Stripped Shirt Form Regular",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 140,
+      "has_variants": true,
+      "image_count": 7
+    }
+  },
+  {
+    "id": "product_29",
+    "text": "Sản phẩm: Áo Sơ Mi Nam Cuban Rochet Strip Form Relaxed. Danh mục: Áo Sơmi. Giá: 349,000 VNĐ. Size có sẵn: L (còn 50 sản phẩm), M (còn 79 sản phẩm), S (còn 30 sản phẩm), XL (còn 87 sản phẩm). Tổng tồn kho: 246 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 29,
+      "product_name": "Áo Sơ Mi Nam Cuban Rochet Strip Form Relaxed",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 246,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_28",
+    "text": "Sản phẩm: Áo Sơmi Linen Nam Tay Dài Quite Sharp Form Regular. Danh mục: Áo Sơmi. Giá: 399,000 VNĐ. Size có sẵn: L (còn 96 sản phẩm), M (còn 13 sản phẩm), S (còn 78 sản phẩm), XL (còn 47 sản phẩm). Tổng tồn kho: 234 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 28,
+      "product_name": "Áo Sơmi Linen Nam Tay Dài Quite Sharp Form Regular",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "price": 399000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 234,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_27",
+    "text": "Sản phẩm: Áo Sơmi Linen Nam Tay Dài Quite Sharp Form Regular. Danh mục: Áo Sơmi. Giá: 349,000 VNĐ. Size có sẵn: L (còn 1 sản phẩm), M (còn 63 sản phẩm), S (còn 68 sản phẩm), XL (còn 81 sản phẩm). Tổng tồn kho: 213 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 27,
+      "product_name": "Áo Sơmi Linen Nam Tay Dài Quite Sharp Form Regular",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 213,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_26",
+    "text": "Sản phẩm: Áo Sơ Mi Tay Dài Nam CD Star Form Regular. Danh mục: Áo Sơmi. Giá: 349,000 VNĐ. Size có sẵn: L (còn 26 sản phẩm), M (còn 13 sản phẩm), S (còn 100 sản phẩm), XL (còn 6 sản phẩm). Tổng tồn kho: 145 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 26,
+      "product_name": "Áo Sơ Mi Tay Dài Nam CD Star Form Regular",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 145,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_25",
+    "text": "Sản phẩm: Áo Sơ Mi Nam Tay Dài Monotype Form Regular. Danh mục: Áo Sơmi. Giá: 399,000 VNĐ. Size có sẵn: L (còn 87 sản phẩm), M (còn 75 sản phẩm), S (còn 31 sản phẩm), XL (còn 13 sản phẩm). Tổng tồn kho: 206 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 25,
+      "product_name": "Áo Sơ Mi Nam Tay Dài Monotype Form Regular",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "price": 399000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 206,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_24",
+    "text": "Sản phẩm: Áo Sơ Mi Nam Caro Flannel Mississippi Form Regular. Danh mục: Áo Sơmi. Giá: 379,000 VNĐ. Size có sẵn: L (còn 60 sản phẩm), M (còn 18 sản phẩm), S (còn 12 sản phẩm), XL (còn 58 sản phẩm). Tổng tồn kho: 148 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 24,
+      "product_name": "Áo Sơ Mi Nam Caro Flannel Mississippi Form Regular",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "price": 379000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 148,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_23",
+    "text": "Sản phẩm: Áo Sơ Mi Nam Cool Super Star Bear Form Boxy. Danh mục: Áo Sơmi. Giá: 329,000 VNĐ. Size có sẵn: L (còn 69 sản phẩm), M (còn 49 sản phẩm), S (còn 44 sản phẩm), XL (còn 15 sản phẩm). Tổng tồn kho: 177 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 23,
+      "product_name": "Áo Sơ Mi Nam Cool Super Star Bear Form Boxy",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "price": 329000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 177,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_22",
+    "text": "Sản phẩm: Áo Sơ Mi Nam Tay Dài Rogne Bear Form Slim. Danh mục: Áo Sơmi. Giá: 349,000 VNĐ. Size có sẵn: L (còn 20 sản phẩm), M (còn 23 sản phẩm), S (còn 40 sản phẩm), XL (còn 32 sản phẩm). Tổng tồn kho: 115 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 22,
+      "product_name": "Áo Sơ Mi Nam Tay Dài Rogne Bear Form Slim",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 115,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_21",
+    "text": "Sản phẩm: Áo Sơ Mi Nam Cuban Stripe Code Form Relaxed. Danh mục: Áo Sơmi. Giá: 329,000 VNĐ. Size có sẵn: L (còn 11 sản phẩm), M (còn 10 sản phẩm), S (còn 61 sản phẩm), XL (còn 55 sản phẩm). Tổng tồn kho: 137 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 21,
+      "product_name": "Áo Sơ Mi Nam Cuban Stripe Code Form Relaxed",
+      "category_id": 3,
+      "category_name": "Áo Sơmi",
+      "price": 329000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 137,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_20",
+    "text": "Sản phẩm: Áo Polo Nam Cotton DualLine Form Regular. Danh mục: Áo Polo. Giá: 349,000 VNĐ. Size có sẵn: L (còn 90 sản phẩm), M (còn 50 sản phẩm), S (còn 98 sản phẩm), XL (còn 66 sản phẩm). Tổng tồn kho: 304 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 20,
+      "product_name": "Áo Polo Nam Cotton DualLine Form Regular",
+      "category_id": 2,
+      "category_name": "Áo Polo",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 304,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_19",
+    "text": "Sản phẩm: Áo Polo Nam Cotton PanelX Form Regular. Danh mục: Áo Polo. Giá: 379,000 VNĐ. Size có sẵn: L (còn 92 sản phẩm), M (còn 29 sản phẩm), S (còn 1 sản phẩm), XL (còn 43 sản phẩm). Tổng tồn kho: 165 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 19,
+      "product_name": "Áo Polo Nam Cotton PanelX Form Regular",
+      "category_id": 2,
+      "category_name": "Áo Polo",
+      "price": 379000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 165,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_18",
+    "text": "Sản phẩm: Áo Polo Nam Hoạ Tiết Boston Classic Form Regular. Danh mục: Áo Polo. Giá: 379,000 VNĐ. Size có sẵn: L (còn 48 sản phẩm), M (còn 73 sản phẩm), S (còn 93 sản phẩm), XL (còn 41 sản phẩm). Tổng tồn kho: 255 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 18,
+      "product_name": "Áo Polo Nam Hoạ Tiết Boston Classic Form Regular",
+      "category_id": 2,
+      "category_name": "Áo Polo",
+      "price": 379000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 255,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_17",
+    "text": "Sản phẩm: Áo Polo Len Nam Urban Lounge Form Regular. Danh mục: Áo Polo. Giá: 449,000 VNĐ. Size có sẵn: L (còn 48 sản phẩm), M (còn 19 sản phẩm), S (còn 97 sản phẩm), XL (còn 3 sản phẩm). Tổng tồn kho: 167 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 17,
+      "product_name": "Áo Polo Len Nam Urban Lounge Form Regular",
+      "category_id": 2,
+      "category_name": "Áo Polo",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 167,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_16",
+    "text": "Sản phẩm: Áo Polo Len Nam Downtown Stripe Form Regular. Danh mục: Áo Polo. Giá: 449,000 VNĐ. Size có sẵn: L (còn 86 sản phẩm), M (còn 63 sản phẩm), S (còn 77 sản phẩm), XL (còn 70 sản phẩm). Tổng tồn kho: 296 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 16,
+      "product_name": "Áo Polo Len Nam Downtown Stripe Form Regular",
+      "category_id": 2,
+      "category_name": "Áo Polo",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 296,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_15",
+    "text": "Sản phẩm: Áo Polo Len Nam Layer Mood Form Regular. Danh mục: Áo Polo. Giá: 429,000 VNĐ. Size có sẵn: L (còn 71 sản phẩm), M (còn 75 sản phẩm), S (còn 67 sản phẩm), XL (còn 73 sản phẩm). Tổng tồn kho: 286 sản phẩm. Có 5 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 15,
+      "product_name": "Áo Polo Len Nam Layer Mood Form Regular",
+      "category_id": 2,
+      "category_name": "Áo Polo",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 286,
+      "has_variants": true,
+      "image_count": 5
+    }
+  },
+  {
+    "id": "product_14",
+    "text": "Sản phẩm: Áo Polo Len Nam Retro Line Form Regular. Danh mục: Áo Polo. Giá: 449,000 VNĐ. Size có sẵn: L (còn 100 sản phẩm), M (còn 90 sản phẩm), S (còn 33 sản phẩm), XL (còn 43 sản phẩm). Tổng tồn kho: 266 sản phẩm. Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 14,
+      "product_name": "Áo Polo Len Nam Retro Line Form Regular",
+      "category_id": 2,
+      "category_name": "Áo Polo",
+      "price": 449000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 266,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_13",
+    "text": "Sản phẩm: Áo Polo Nam Double Face CVC Essence Form Regular. Danh mục: Áo Polo. Giá: 349,000 VNĐ. Size có sẵn: L (còn 56 sản phẩm), M (còn 100 sản phẩm), S (còn 91 sản phẩm), XL (còn 100 sản phẩm). Tổng tồn kho: 347 sản phẩm. Có 7 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 13,
+      "product_name": "Áo Polo Nam Double Face CVC Essence Form Regular",
+      "category_id": 2,
+      "category_name": "Áo Polo",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 347,
+      "has_variants": true,
+      "image_count": 7
+    }
+  },
+  {
+    "id": "product_12",
+    "text": "Sản phẩm: Áo Polo Nam Cá Mập CVC Conqueror Bear Form Regular. Danh mục: Áo Polo. Giá: 399,000 VNĐ. Size có sẵn: L (còn 28 sản phẩm), M (còn 39 sản phẩm), S (còn 36 sản phẩm), XL (còn 26 sản phẩm). Tổng tồn kho: 129 sản phẩm. Đánh giá: 5.0/5 sao từ 1 người mua. Nhận xét: 'Chất liệu áo rất mát mẻ, áo đẹp. Sẽ ủng hộ shop lâu dài' (5 sao). Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 12,
+      "product_name": "Áo Polo Nam Cá Mập CVC Conqueror Bear Form Regular",
+      "category_id": 2,
+      "category_name": "Áo Polo",
+      "price": 399000.0,
+      "avg_rating": 5.0,
+      "review_count": 1,
+      "total_stock": 129,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_11",
+    "text": "Sản phẩm: Áo Polo Len Nam Tay Dài City Fade Form Regular. Danh mục: Áo Polo. Giá: 529,000 VNĐ. Size có sẵn: L (còn 49 sản phẩm), M (còn 35 sản phẩm), S (còn 88 sản phẩm), XL (còn 25 sản phẩm). Tổng tồn kho: 197 sản phẩm. Có 4 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 11,
+      "product_name": "Áo Polo Len Nam Tay Dài City Fade Form Regular",
+      "category_id": 2,
+      "category_name": "Áo Polo",
+      "price": 529000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 197,
+      "has_variants": true,
+      "image_count": 4
+    }
+  },
+  {
+    "id": "product_10",
+    "text": "Sản phẩm: Áo Thun Nam HomeRun Form Regular. Danh mục: Áo Thun. Giá: 299,000 VNĐ. Size có sẵn: L (còn 84 sản phẩm), M (còn 21 sản phẩm), S (còn 62 sản phẩm), XL (còn 13 sản phẩm). Tổng tồn kho: 180 sản phẩm. Đánh giá: 5.0/5 sao từ 1 người mua. Nhận xét: 'sản phẩm đẹp, chất liệu mát mẻ ' (5 sao). Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 10,
+      "product_name": "Áo Thun Nam HomeRun Form Regular",
+      "category_id": 1,
+      "category_name": "Áo Thun",
+      "price": 299000.0,
+      "avg_rating": 5.0,
+      "review_count": 1,
+      "total_stock": 180,
       "has_variants": true,
       "image_count": 2
     }
   },
   {
     "id": "product_9",
-    "text": "Sản phẩm: Quần tây nam công sở. Danh mục: Quần tây. Giá: 399,000 VNĐ. Mô tả: Quần tây form slim fit. Size có sẵn: L (còn 25 sản phẩm), M (còn 20 sản phẩm), S (còn 15 sản phẩm), XL (còn 10 sản phẩm). Tổng tồn kho: 70 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "text": "Sản phẩm: Áo Thun Nam Cotton Bull Dog Form Regular. Danh mục: Áo Thun. Giá: 329,000 VNĐ. Size có sẵn: L (còn 36 sản phẩm), M (còn 0 sản phẩm), S (còn 2 sản phẩm), XL (còn 33 sản phẩm). Tổng tồn kho: 71 sản phẩm. Đánh giá: 1.0/5 sao từ 1 người mua. Nhận xét: 'áo đẹp' (1 sao). Có 3 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
       "product_id": 9,
-      "product_name": "Quần tây nam công sở",
-      "category_id": 5,
-      "category_name": "Quần tây",
-      "price": 399000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 70,
+      "product_name": "Áo Thun Nam Cotton Bull Dog Form Regular",
+      "category_id": 1,
+      "category_name": "Áo Thun",
+      "price": 329000.0,
+      "avg_rating": 1.0,
+      "review_count": 1,
+      "total_stock": 71,
       "has_variants": true,
-      "image_count": 2
+      "image_count": 3
     }
   },
   {
-    "id": "product_10",
-    "text": "Sản phẩm: Quần tây ống đứng. Danh mục: Quần tây. Giá: 429,000 VNĐ. Mô tả: Quần tây nam lịch lãm. Size có sẵn: L (còn 22 sản phẩm), M (còn 18 sản phẩm), S (còn 12 sản phẩm), XL (còn 8 sản phẩm). Tổng tồn kho: 60 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_8",
+    "text": "Sản phẩm: Áo Thun Nam Cotton Pattern DenimSky Form Regular. Danh mục: Áo Thun. Giá: 329,000 VNĐ. Size có sẵn: L (còn 6 sản phẩm), M (còn 21 sản phẩm), S (còn 97 sản phẩm), XL (còn 45 sản phẩm). Tổng tồn kho: 169 sản phẩm. Đánh giá: 5.0/5 sao từ 1 người mua. Nhận xét: 'Áo đẹp nhưng hơi đắt' (5 sao). Có 3 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 10,
-      "product_name": "Quần tây ống đứng",
-      "category_id": 5,
-      "category_name": "Quần tây",
-      "price": 429000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 60,
+      "product_id": 8,
+      "product_name": "Áo Thun Nam Cotton Pattern DenimSky Form Regular",
+      "category_id": 1,
+      "category_name": "Áo Thun",
+      "price": 329000.0,
+      "avg_rating": 5.0,
+      "review_count": 1,
+      "total_stock": 169,
       "has_variants": true,
-      "image_count": 2
+      "image_count": 3
     }
   },
   {
-    "id": "product_11",
-    "text": "Sản phẩm: Quần short kaki. Danh mục: Quần short. Giá: 259,000 VNĐ. Mô tả: Quần short nam kaki thoải mái. Size có sẵn: L (còn 30 sản phẩm), M (còn 24 sản phẩm), S (còn 20 sản phẩm), XL (còn 15 sản phẩm). Tổng tồn kho: 89 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_7",
+    "text": "Sản phẩm: Áo Thun Nam Cotton Staple Form Regular. Danh mục: Áo Thun. Giá: 249,000 VNĐ. Size có sẵn: L (còn 16 sản phẩm), M (còn 17 sản phẩm), S (còn 55 sản phẩm), XL (còn 52 sản phẩm). Tổng tồn kho: 140 sản phẩm. Có 8 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 11,
-      "product_name": "Quần short kaki",
-      "category_id": 6,
-      "category_name": "Quần short",
-      "price": 259000.0,
+      "product_id": 7,
+      "product_name": "Áo Thun Nam Cotton Staple Form Regular",
+      "category_id": 1,
+      "category_name": "Áo Thun",
+      "price": 249000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 89,
+      "total_stock": 140,
       "has_variants": true,
-      "image_count": 2
+      "image_count": 8
     }
   },
   {
-    "id": "product_12",
-    "text": "Sản phẩm: Quần short thể thao. Danh mục: Quần short. Giá: 229,000 VNĐ. Mô tả: Quần short nam thể thao. Size có sẵn: L (còn 28 sản phẩm), M (còn 22 sản phẩm), S (còn 18 sản phẩm), XL (còn 12 sản phẩm). Tổng tồn kho: 80 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_6",
+    "text": "Sản phẩm: Áo Thun Nam Dệt Sọc Chìm Harmonic Form Regular. Danh mục: Áo Thun. Giá: 279,000 VNĐ. Size có sẵn: L (còn 25 sản phẩm), M (còn 83 sản phẩm), S (còn 87 sản phẩm), XL (còn 32 sản phẩm). Tổng tồn kho: 227 sản phẩm. Có 4 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 12,
-      "product_name": "Quần short thể thao",
-      "category_id": 6,
-      "category_name": "Quần short",
-      "price": 229000.0,
+      "product_id": 6,
+      "product_name": "Áo Thun Nam Dệt Sọc Chìm Harmonic Form Regular",
+      "category_id": 1,
+      "category_name": "Áo Thun",
+      "price": 279000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 80,
+      "total_stock": 227,
       "has_variants": true,
-      "image_count": 2
+      "image_count": 4
     }
   },
   {
-    "id": "product_13",
-    "text": "Sản phẩm: Quần jeans xanh đậm. Danh mục: Quần jeans. Giá: 459,000 VNĐ. Mô tả: Quần jeans nam form slim. Size có sẵn: L (còn 20 sản phẩm), M (còn 15 sản phẩm), S (còn 10 sản phẩm), XL (còn 8 sản phẩm). Tổng tồn kho: 53 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_5",
+    "text": "Sản phẩm: Áo Thun Len Nam Mono Sense Form Regular. Danh mục: Áo Thun. Giá: 379,000 VNĐ. Size có sẵn: L (còn 49 sản phẩm), M (còn 46 sản phẩm), S (còn 80 sản phẩm), XL (còn 31 sản phẩm). Tổng tồn kho: 206 sản phẩm. Có 4 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 13,
-      "product_name": "Quần jeans xanh đậm",
-      "category_id": 7,
-      "category_name": "Quần jeans",
-      "price": 459000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 53,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_14",
-    "text": "Sản phẩm: Quần jeans rách gối. Danh mục: Quần jeans. Giá: 499,000 VNĐ. Mô tả: Quần jeans nam phong cách streetwear. Size có sẵn: L (còn 18 sản phẩm), M (còn 12 sản phẩm), S (còn 8 sản phẩm), XL (còn 6 sản phẩm). Tổng tồn kho: 44 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 14,
-      "product_name": "Quần jeans rách gối",
-      "category_id": 7,
-      "category_name": "Quần jeans",
-      "price": 499000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 44,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_15",
-    "text": "Sản phẩm: Quần boxer cotton. Danh mục: Quần boxer. Giá: 99,000 VNĐ. Mô tả: Quần boxer nam cotton mềm mại. Size có sẵn: L (còn 40 sản phẩm), M (còn 35 sản phẩm), S (còn 30 sản phẩm), XL (còn 20 sản phẩm). Tổng tồn kho: 125 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 15,
-      "product_name": "Quần boxer cotton",
-      "category_id": 8,
-      "category_name": "Quần boxer",
-      "price": 99000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 125,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_16",
-    "text": "Sản phẩm: Quần boxer thoáng khí. Danh mục: Quần boxer. Giá: 129,000 VNĐ. Mô tả: Quần boxer nam co giãn tốt. Size có sẵn: L (còn 38 sản phẩm), M (còn 32 sản phẩm), S (còn 28 sản phẩm), XL (còn 18 sản phẩm). Tổng tồn kho: 116 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 16,
-      "product_name": "Quần boxer thoáng khí",
-      "category_id": 8,
-      "category_name": "Quần boxer",
-      "price": 129000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 116,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_17",
-    "text": "Sản phẩm: Quần jogger thể thao. Danh mục: Quần jogger. Giá: 349,000 VNĐ. Mô tả: Quần jogger nam năng động. Size có sẵn: L (còn 25 sản phẩm), M (còn 20 sản phẩm), S (còn 15 sản phẩm), XL (còn 10 sản phẩm). Tổng tồn kho: 70 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 17,
-      "product_name": "Quần jogger thể thao",
-      "category_id": 9,
-      "category_name": "Quần jogger",
-      "price": 349000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 70,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_18",
-    "text": "Sản phẩm: Quần jogger nỉ. Danh mục: Quần jogger. Giá: 379,000 VNĐ. Mô tả: Quần jogger nam chất liệu nỉ. Size có sẵn: L (còn 22 sản phẩm), M (còn 18 sản phẩm), S (còn 12 sản phẩm), XL (còn 8 sản phẩm). Tổng tồn kho: 60 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 18,
-      "product_name": "Quần jogger nỉ",
-      "category_id": 9,
-      "category_name": "Quần jogger",
+      "product_id": 5,
+      "product_name": "Áo Thun Len Nam Mono Sense Form Regular",
+      "category_id": 1,
+      "category_name": "Áo Thun",
       "price": 379000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 60,
+      "total_stock": 206,
       "has_variants": true,
-      "image_count": 2
+      "image_count": 4
     }
   },
   {
-    "id": "product_19",
-    "text": "Sản phẩm: Giày sneaker nam. Danh mục: Giày & dép. Giá: 699,000 VNĐ. Mô tả: Giày sneaker nam phong cách trẻ trung. Size có sẵn: 39 (còn 10 sản phẩm), 40 (còn 15 sản phẩm), 41 (còn 20 sản phẩm), 42 (còn 10 sản phẩm). Tổng tồn kho: 55 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_4",
+    "text": "Sản phẩm: Áo Thun Nam Cotton Bear Line Form Regular. Danh mục: Áo Thun. Giá: 329,000 VNĐ. Size có sẵn: L (còn 32 sản phẩm), M (còn 97 sản phẩm), S (còn 11 sản phẩm), XL (còn 5 sản phẩm). Tổng tồn kho: 145 sản phẩm. Có 3 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 19,
-      "product_name": "Giày sneaker nam",
-      "category_id": 10,
-      "category_name": "Giày & dép",
-      "price": 699000.0,
+      "product_id": 4,
+      "product_name": "Áo Thun Nam Cotton Bear Line Form Regular",
+      "category_id": 1,
+      "category_name": "Áo Thun",
+      "price": 329000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 55,
+      "total_stock": 145,
       "has_variants": true,
-      "image_count": 2
+      "image_count": 3
     }
   },
   {
-    "id": "product_20",
-    "text": "Sản phẩm: Dép nam quai ngang. Danh mục: Giày & dép. Giá: 199,000 VNĐ. Mô tả: Dép nam quai ngang tiện lợi. Size có sẵn: 39 (còn 12 sản phẩm), 40 (còn 16 sản phẩm), 41 (còn 22 sản phẩm), 42 (còn 12 sản phẩm). Tổng tồn kho: 62 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_3",
+    "text": "Sản phẩm: Áo Thun Giữ Nhiệt Nam Tay Dài Bamboo Heatwear Form Slim. Danh mục: Áo Thun. Giá: 259,000 VNĐ. Size có sẵn: L (còn 68 sản phẩm), M (còn 51 sản phẩm), S (còn 42 sản phẩm), XL (còn 1 sản phẩm). Tổng tồn kho: 162 sản phẩm. Có 1 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 20,
-      "product_name": "Dép nam quai ngang",
-      "category_id": 10,
-      "category_name": "Giày & dép",
-      "price": 199000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 62,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_21",
-    "text": "Sản phẩm: Nón lưỡi trai. Danh mục: Nón. Giá: 149,000 VNĐ. Mô tả: Nón lưỡi trai nam thời trang. Size có sẵn: FREE (còn 50 sản phẩm). Tổng tồn kho: 50 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 21,
-      "product_name": "Nón lưỡi trai",
-      "category_id": 11,
-      "category_name": "Nón",
-      "price": 149000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 50,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_22",
-    "text": "Sản phẩm: Nón bucket. Danh mục: Nón. Giá: 179,000 VNĐ. Mô tả: Nón bucket nam phong cách street. Size có sẵn: FREE (còn 40 sản phẩm). Tổng tồn kho: 40 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 22,
-      "product_name": "Nón bucket",
-      "category_id": 11,
-      "category_name": "Nón",
-      "price": 179000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 40,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_23",
-    "text": "Sản phẩm: Thắt lưng da nam. Danh mục: Thắt lưng. Giá: 259,000 VNĐ. Mô tả: Thắt lưng da thật nam. Size có sẵn: FREE (còn 30 sản phẩm). Tổng tồn kho: 30 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 23,
-      "product_name": "Thắt lưng da nam",
-      "category_id": 12,
-      "category_name": "Thắt lưng",
+      "product_id": 3,
+      "product_name": "Áo Thun Giữ Nhiệt Nam Tay Dài Bamboo Heatwear Form Slim",
+      "category_id": 1,
+      "category_name": "Áo Thun",
       "price": 259000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 30,
+      "total_stock": 162,
+      "has_variants": true,
+      "image_count": 1
+    }
+  },
+  {
+    "id": "product_2",
+    "text": "Sản phẩm: Áo Thun Nam Cotton ICONDENIM Shimmer Logo Form Regular. Danh mục: Áo Thun. Giá: 299,000 VNĐ. Size có sẵn: L (còn 98 sản phẩm), M (còn 91 sản phẩm), S (còn 42 sản phẩm), XL (còn 50 sản phẩm). Tổng tồn kho: 281 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 2,
+      "product_name": "Áo Thun Nam Cotton ICONDENIM Shimmer Logo Form Regular",
+      "category_id": 1,
+      "category_name": "Áo Thun",
+      "price": 299000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 281,
       "has_variants": true,
       "image_count": 2
     }
   },
   {
-    "id": "product_24",
-    "text": "Sản phẩm: Thắt lưng khóa tự động. Danh mục: Thắt lưng. Giá: 289,000 VNĐ. Mô tả: Thắt lưng nam khóa tự động. Size có sẵn: FREE (còn 35 sản phẩm). Tổng tồn kho: 35 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "id": "product_1",
+    "text": "Sản phẩm: Áo Thun Nam Cotton Inspiring Form Regular. Danh mục: Áo Thun. Giá: 329,000 VNĐ. Size có sẵn: L (còn 49 sản phẩm), M (còn 41 sản phẩm), S (còn 69 sản phẩm), XL (còn 49 sản phẩm). Tổng tồn kho: 208 sản phẩm. Có 2 hình ảnh sản phẩm.",
     "metadata": {
       "type": "product",
-      "product_id": 24,
-      "product_name": "Thắt lưng khóa tự động",
-      "category_id": 12,
-      "category_name": "Thắt lưng",
-      "price": 289000.0,
+      "product_id": 1,
+      "product_name": "Áo Thun Nam Cotton Inspiring Form Regular",
+      "category_id": 1,
+      "category_name": "Áo Thun",
+      "price": 329000.0,
       "avg_rating": 0,
       "review_count": 0,
-      "total_stock": 35,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_25",
-    "text": "Sản phẩm: Vớ cổ ngắn. Danh mục: Vớ. Giá: 49,000 VNĐ. Mô tả: Vớ nam cổ ngắn cotton. Size có sẵn: FREE (còn 60 sản phẩm). Tổng tồn kho: 60 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 25,
-      "product_name": "Vớ cổ ngắn",
-      "category_id": 13,
-      "category_name": "Vớ",
-      "price": 49000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 60,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_26",
-    "text": "Sản phẩm: Vớ thể thao. Danh mục: Vớ. Giá: 69,000 VNĐ. Mô tả: Vớ nam thể thao thoáng khí. Size có sẵn: FREE (còn 55 sản phẩm). Tổng tồn kho: 55 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 26,
-      "product_name": "Vớ thể thao",
-      "category_id": 13,
-      "category_name": "Vớ",
-      "price": 69000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 55,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_27",
-    "text": "Sản phẩm: Mắt kính râm nam. Danh mục: Mắt kính. Giá: 199,000 VNĐ. Mô tả: Mắt kính râm chống UV. Size có sẵn: FREE (còn 25 sản phẩm). Tổng tồn kho: 25 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 27,
-      "product_name": "Mắt kính râm nam",
-      "category_id": 14,
-      "category_name": "Mắt kính",
-      "price": 199000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 25,
-      "has_variants": true,
-      "image_count": 2
-    }
-  },
-  {
-    "id": "product_28",
-    "text": "Sản phẩm: Mắt kính thời trang. Danh mục: Mắt kính. Giá: 229,000 VNĐ. Mô tả: Mắt kính nam phong cách Hàn Quốc. Size có sẵn: FREE (còn 20 sản phẩm). Tổng tồn kho: 20 sản phẩm. Có 2 hình ảnh sản phẩm.",
-    "metadata": {
-      "type": "product",
-      "product_id": 28,
-      "product_name": "Mắt kính thời trang",
-      "category_id": 14,
-      "category_name": "Mắt kính",
-      "price": 229000.0,
-      "avg_rating": 0,
-      "review_count": 0,
-      "total_stock": 20,
+      "total_stock": 208,
       "has_variants": true,
       "image_count": 2
     }

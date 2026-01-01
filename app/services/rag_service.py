@@ -19,7 +19,7 @@ class RAGService:
         user_id: int,
         message: str,
         conversation_id: Optional[int] = None,
-        n_results: int = 5
+        n_results: int = 10
     ) -> Dict:
         """
         Main chat function - xử lý toàn bộ flow
@@ -114,7 +114,7 @@ class RAGService:
         user_id: int,
         message: str,
         conversation_id: Optional[int] = None,
-        n_results: int = 5
+        n_results: int = 10
     ):
         """
         Streaming chat response (cho real-time chat UI)

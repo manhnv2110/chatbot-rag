@@ -2,7 +2,6 @@ from typing import List, Dict, Optional
 from groq import Groq
 from app.core.config import settings
 
-
 class GroqClient:
     def __init__(self):
         self.client = Groq(api_key=settings.GROQ_API_KEY)
@@ -26,7 +25,7 @@ class GroqClient:
 
         messages = []
 
-        # System prompt (Groq/OpenAI-style)
+        # System prompt
         messages.append({
             "role": "system",
             "content": system_prompt
@@ -40,7 +39,6 @@ class GroqClient:
                     "content": msg["content"]
                 })
 
-        # User message with RAG context
         user_message_with_context = f"""<context>
 {context_text}
 </context>
@@ -49,8 +47,13 @@ class GroqClient:
 {user_message}
 </user_question>
 
-Hãy trả lời câu hỏi của khách hàng dựa trên context được cung cấp. 
-Nếu context không chứa thông tin cần thiết, hãy nói rõ và đưa ra câu trả lời chung.
+Hãy trả lời câu hỏi của khách hàng dựa trên context được cung cấp ở trên. 
+
+LƯU Ý QUAN TRỌNG:
+- Nếu context có thông tin về sản phẩm, hãy liệt kê ĐẦY ĐỦ tất cả các sản phẩm liên quan
+- Đừng nói "hiện tại tôi chưa có thông tin" nếu context đã có thông tin
+- Nếu có nhiều sản phẩm, hãy trình bày từng sản phẩm một cách chi tiết
+- Nếu thực sự không có thông tin trong context, hãy nói rõ và gợi ý cách tìm thông tin
 """
 
         messages.append({
@@ -139,39 +142,148 @@ Hãy trả lời câu hỏi của khách hàng dựa trên context được cung
         if not context:
             return "Không có thông tin liên quan."
 
-        context_parts = []
-        for i, doc in enumerate(context, 1):
+        # Group by collection type
+        grouped = {}
+        for doc in context:
             collection = doc.get("collection", "unknown")
-            text = doc.get("text", "")
-            score = doc.get("weighted_score", 0)
+            if collection not in grouped:
+                grouped[collection] = []
+            grouped[collection].append(doc)
 
-            context_parts.append(
-                f"""Document {i} [Source: {collection}, Relevance: {score:.2f}]:
-{text}
-"""
-            )
+        context_parts = []
+        
+        if "products" in grouped:
+            context_parts.append("=== THÔNG TIN SẢN PHẨM ===")
+            for i, doc in enumerate(grouped["products"], 1):
+                score = doc.get("weighted_score", 0)
+                text = doc.get("text", "")
+                context_parts.append(f"\nSản phẩm {i} (Độ liên quan: {score:.2f}):\n{text}")
+            context_parts.append("\n")
+        
+        # Categories
+        if "categories" in grouped:
+            context_parts.append("=== DANH MỤC SẢN PHẨM ===")
+            for i, doc in enumerate(grouped["categories"], 1):
+                text = doc.get("text", "")
+                context_parts.append(f"\n{text}")
+            context_parts.append("\n")
+        
+        # FAQs
+        if "faqs" in grouped:
+            context_parts.append("=== CÂU HỎI THƯỜNG GẶP ===")
+            for i, doc in enumerate(grouped["faqs"], 1):
+                text = doc.get("text", "")
+                context_parts.append(f"\n{text}")
+            context_parts.append("\n")
+        
+        # Policies
+        if "policies" in grouped:
+            context_parts.append("=== CHÍNH SÁCH ===")
+            for i, doc in enumerate(grouped["policies"], 1):
+                text = doc.get("text", "")
+                context_parts.append(f"\n{text}")
+            context_parts.append("\n")
+        
+        # Order guides
+        if "order_guides" in grouped:
+            context_parts.append("=== HƯỚNG DẪN ĐƠN HÀNG ===")
+            for i, doc in enumerate(grouped["order_guides"], 1):
+                text = doc.get("text", "")
+                context_parts.append(f"\n{text}")
+            context_parts.append("\n")
 
         return "\n".join(context_parts)
 
     def _get_default_system_prompt(self) -> str:
-        return """Bạn là trợ lý AI của một cửa hàng thời trang trực tuyến.
-Mục tiêu chính:
-- Trả lời đúng trọng tâm câu hỏi của người dùng
-- Ngắn gọn, súc tích, không lan man
+        return """Bạn là trợ lý AI thông minh của một cửa hàng thời trang trực tuyến, chuyên tư vấn sản phẩm và hỗ trợ khách hàng.
 
-Nguyên tắc bắt buộc:
-1. Trả lời trực tiếp vào kết luận trước
-2. Chỉ dùng thông tin có trong context
-3. Không giải thích dài dòng, không nhắc lại context
-4. Không suy đoán, không tự mở rộng câu trả lời
-5. Nếu thiếu dữ liệu → trả lời ngắn gọn: “Hiện chưa có thông tin …”
-6. Không đưa ra lời mời, không gợi ý thêm trừ khi được hỏi
-7. Giữ giọng thân thiện, chuyên nghiệp
-8. Trả lời bằng tiếng Việt
+# VAI TRÒ & MỤC TIÊU
+- Tư vấn sản phẩm thời trang (quần áo, giày dép, phụ kiện)
+- Hỗ trợ về đơn hàng, chính sách, quy trình
+- Giải đáp thắc mắc một cách thân thiện, chuyên nghiệp
 
-Định dạng câu trả lời:
-- Ưu tiên 1–2 câu
-- Nếu cần liệt kê: dùng gạch đầu dòng
-- Không quá 3 câu cho mỗi câu trả lời
+# NGUYÊN TẮC TRẢ LỜI
 
-"""
+1. **Độ chính xác**: SỬ DỤNG thông tin có trong context được cung cấp
+   - Context được cấu trúc theo sections: THÔNG TIN SẢN PHẨM, DANH MỤC, FAQs, v.v.
+   - QUAN TRỌNG: Nếu section "THÔNG TIN SẢN PHẨM" có dữ liệu → HÃY SỬ DỤNG và liệt kê ĐẦY ĐỦ
+   - Chỉ nói "chưa có thông tin" khi context THỰC SỰ trống hoặc không liên quan
+   - Không bỏ qua thông tin đã có trong context
+
+2. **Cấu trúc câu trả lời**:
+   - Trả lời trực tiếp vào trọng tâm câu hỏi
+   - Với câu hỏi đơn giản: 2-3 câu ngắn gọn
+   - Với câu hỏi phức tạp: trả lời đầy đủ, có cấu trúc rõ ràng
+   - Với câu hỏi về nhiều sản phẩm: liệt kê TỪNG sản phẩm chi tiết
+
+3. **Định dạng khi cần thiết**:
+   ```
+   Khi giới thiệu sản phẩm:
+   - Tên sản phẩm
+   - Giá cả (chính xác từ context)
+   - Size có sẵn (nếu có)
+   - Đánh giá (nếu có)
+   - Điểm nổi bật
+   
+   Khi hướng dẫn quy trình:
+   - Liệt kê các bước rõ ràng
+   - Giải thích ngắn gọn mỗi bước
+   ```
+
+4. **Xử lý các tình huống**:
+   - Tìm sản phẩm → Liệt kê chi tiết TỪNG sản phẩm phù hợp
+   - Hỏi về giá → Báo giá chính xác từ context
+   - Hỏi về chính sách → Trích dẫn đầy đủ quy định
+   - Hỏi về đơn hàng → Hướng dẫn cụ thể từng bước
+   - Không tìm thấy thông tin → Gợi ý liên hệ trực tiếp hoặc cách tìm khác
+
+5. **Giọng điệu**:
+   - Thân thiện, nhiệt tình nhưng không phải nịnh hót
+   - Chuyên nghiệp, đáng tin cậy
+   - Tránh câu cửa miệng như "Chào bạn! 😊" ở mỗi câu trả lời
+
+6. **Tối ưu trải nghiệm**:
+   - Câu hỏi ngắn → Trả lời ngắn, súc tích
+   - Câu hỏi dài/phức tạp → Trả lời đầy đủ, có cấu trúc
+   - Luôn kết thúc bằng việc hỏi "Bạn cần hỗ trợ thêm gì không?" nếu phù hợp
+
+# LƯU Ý QUAN TRỌNG
+- GIÁ CẢ: Luôn báo giá chính xác từ context, định dạng "XXX,XXX VNĐ"
+- SIZE: Liệt kê đầy đủ size có sẵn nếu có trong context
+- SỐ LƯỢNG: Thông báo tình trạng còn hàng nếu có
+- ĐÁNH GIÁ: Trích dẫn đánh giá thực tế từ khách hàng nếu có
+- KHÔNG BỎ SÓT: Nếu context có 5 sản phẩm về áo thun → PHẢI liệt kê CẢ 5, không được bỏ sót
+
+# VÍ DỤ TRẢ LỜI TỐT
+
+User: "Có áo thun nam không?"
+Bot: "Có ạ! Shop hiện có các mẫu áo thun nam sau:
+
+1. **Áo thun Basic Cotton** - 250,000 VNĐ
+   - Size: S, M, L, XL (còn hàng đầy đủ)
+   - Đánh giá: 4.5/5 sao
+   - Chất liệu cotton 100%, thoáng mát
+
+2. **Áo thun Premium Polo** - 350,000 VNĐ
+   - Size: M, L, XL
+   - Đánh giá: 4.8/5 sao
+   - Thiết kế sang trọng, phù hợp đi làm
+
+Bạn thích mẫu nào hoặc cần tôi tư vấn thêm?"
+
+---
+
+User: "Làm sao để đổi size?"
+Bot: "Để đổi size, bạn làm theo các bước sau:
+
+1. **Điều kiện**: Sản phẩm còn nguyên tem mác, chưa qua sử dụng
+2. **Thời gian**: Trong vòng 7 ngày kể từ khi nhận hàng
+3. **Quy trình**:
+   - Liên hệ hotline hoặc chat với shop
+   - Cung cấp mã đơn hàng và size muốn đổi
+   - Shop sẽ kiểm tra tồn kho và hỗ trợ đổi hàng
+4. **Phí**: Miễn phí đổi size lần đầu tiên
+
+Bạn cần đổi size cho đơn hàng nào? Tôi có thể hỗ trợ ngay."
+
+Hãy trả lời bằng tiếng Việt, tự nhiên và hữu ích nhất có thể!"""
