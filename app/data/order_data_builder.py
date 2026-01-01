@@ -1,0 +1,283 @@
+import json
+import chromadb
+from sentence_transformers import SentenceTransformer
+from app.core.config import settings
+from typing import List, Dict
+
+def get_order_guide_data() -> List[Dict]:
+    guides = [
+        {
+            "id": "order_guide_status_1",
+            "type": "order_status",
+            "title": "Các trạng thái đơn hàng",
+            "content": """
+            Đơn hàng của bạn sẽ trải qua các trạng thái sau:
+            
+            1. PENDING (Chờ xác nhận): Đơn hàng vừa được tạo, đang chờ shop xác nhận.
+            
+            2. CONFIRMED (Đã xác nhận): Shop đã xác nhận đơn hàng và đang chuẩn bị hàng.
+            
+            3. SHIPPING (Đang giao): Đơn hàng đã được giao cho đơn vị vận chuyển và đang trên đường giao đến bạn.
+            
+            4. DELIVERED (Đã giao): Đơn hàng đã được giao thành công đến địa chỉ của bạn.
+            
+            5. CANCELLED (Đã hủy): Đơn hàng đã bị hủy (do bạn hoặc shop hủy).
+            
+            6. RETURNED (Đã trả hàng): Đơn hàng đã được trả lại cho shop.
+            """,
+            "keywords": ["trạng thái đơn hàng", "order status", "pending", "confirmed", "shipping", "delivered"]
+        },
+        {
+            "id": "order_guide_tracking_1",
+            "type": "order_tracking",
+            "title": "Cách theo dõi đơn hàng",
+            "content": """
+            Để theo dõi đơn hàng của bạn:
+            
+            Cách 1 - Qua website:
+            - Đăng nhập vào tài khoản của bạn
+            - Vào menu "Đơn hàng của tôi"
+            - Chọn đơn hàng muốn xem
+            - Xem chi tiết trạng thái và mã vận đơn
+            
+            Cách 2 - Qua email:
+            - Kiểm tra email bạn đã đăng ký
+            - Tìm email xác nhận đơn hàng
+            - Email sẽ chứa mã đơn hàng và link theo dõi
+            
+            Cách 3 - Liên hệ trực tiếp:
+            - Gọi hotline với mã đơn hàng
+            - Chat với chúng tôi để được hỗ trợ
+            
+            Lưu ý: Bạn cần mã đơn hàng (Order ID) để tra cứu.
+            """,
+            "keywords": ["theo dõi đơn hàng", "tracking order", "kiểm tra đơn hàng", "xem đơn hàng"]
+        },
+        {
+            "id": "order_guide_cancel_1",
+            "type": "order_cancellation",
+            "title": "Hủy đơn hàng như thế nào",
+            "content": """
+            Quy trình hủy đơn hàng:
+            
+            Nếu đơn hàng ở trạng thái PENDING (Chờ xác nhận):
+            - Bạn có thể tự hủy trực tiếp trên website
+            - Vào "Đơn hàng của tôi" > Chọn đơn hàng > Nhấn "Hủy đơn"
+            - Tiền sẽ được hoàn lại ngay nếu đã thanh toán online
+            
+            Nếu đơn hàng ở trạng thái CONFIRMED (Đã xác nhận):
+            - Liên hệ hotline hoặc chat ngay lập tức
+            - Cung cấp mã đơn hàng
+            - Chúng tôi sẽ kiểm tra và hỗ trợ hủy nếu hàng chưa được đóng gói
+            
+            Nếu đơn hàng ở trạng thái SHIPPING (Đang giao):
+            - Không thể hủy đơn nữa
+            - Bạn có thể từ chối nhận hàng khi shipper giao
+            - Hoặc nhận hàng và yêu cầu đổi trả trong 7 ngày
+            
+            Hoàn tiền:
+            - COD: Không cần hoàn tiền vì chưa thanh toán
+            - Thanh toán online: Hoàn trong 5-7 ngày làm việc
+            """,
+            "keywords": ["hủy đơn hàng", "cancel order", "không muốn đặt nữa", "hủy order"]
+        },
+        {
+            "id": "order_guide_payment_status_1",
+            "type": "payment_status",
+            "title": "Trạng thái thanh toán",
+            "content": """
+            Các trạng thái thanh toán:
+            
+            1. PENDING (Chờ thanh toán):
+            - Đơn hàng COD chưa giao
+            - Hoặc đơn hàng chuyển khoản chưa nhận được tiền
+            
+            2. PAID (Đã thanh toán):
+            - Đã thanh toán online thành công qua VNPay/MoMo
+            - Hoặc đã chuyển khoản và shop đã xác nhận
+            
+            3. FAILED (Thanh toán thất bại):
+            - Giao dịch online không thành công
+            - Cần thanh toán lại hoặc chọn phương thức khác
+            
+            4. REFUNDED (Đã hoàn tiền):
+            - Tiền đã được hoàn lại do hủy đơn hoặc trả hàng
+            
+            Lưu ý:
+            - Đơn COD sẽ chuyển sang PAID sau khi bạn nhận hàng và thanh toán cho shipper
+            - Hoàn tiền online thường mất 5-7 ngày làm việc
+            """,
+            "keywords": ["trạng thái thanh toán", "payment status", "đã thanh toán chưa", "pending paid"]
+        },
+        {
+            "id": "order_guide_modify_1",
+            "type": "order_modification",
+            "title": "Thay đổi thông tin đơn hàng",
+            "content": """
+            Thay đổi thông tin đơn hàng sau khi đặt:
+            
+            Thay đổi địa chỉ giao hàng:
+            - Chỉ có thể thay đổi khi đơn hàng ở trạng thái PENDING hoặc CONFIRMED
+            - Liên hệ ngay với chúng tôi qua hotline hoặc chat
+            - Cung cấp mã đơn hàng và địa chỉ mới
+            - Không thể thay đổi khi đơn đã ở trạng thái SHIPPING
+            
+            Thay đổi sản phẩm (thêm/bớt/đổi):
+            - Chỉ có thể thay đổi khi đơn hàng ở trạng thái PENDING
+            - Liên hệ ngay để shop điều chỉnh
+            - Nếu đơn đã CONFIRMED, bạn cần hủy và đặt lại đơn mới
+            
+            Thay đổi phương thức thanh toán:
+            - Có thể thay đổi trước khi thanh toán
+            - Từ COD sang online: Thanh toán trực tiếp trên website
+            - Từ online sang COD: Liên hệ shop để điều chỉnh
+            
+            Gộp đơn hàng:
+            - Nếu bạn đặt nhiều đơn cùng lúc và muốn gộp lại
+            - Liên hệ trong vòng 1 giờ sau khi đặt hàng
+            - Shop sẽ kiểm tra và hỗ trợ nếu có thể
+            """,
+            "keywords": ["thay đổi đơn hàng", "sửa đơn hàng", "đổi địa chỉ", "modify order"]
+        },
+        {
+            "id": "order_guide_invoice_1",
+            "type": "invoice",
+            "title": "Hóa đơn và chứng từ",
+            "content": """
+            Thông tin về hóa đơn:
+            
+            Hóa đơn điện tử:
+            - Tất cả đơn hàng đều có hóa đơn điện tử
+            - Hóa đơn được gửi qua email sau khi đơn hàng DELIVERED
+            - Kiểm tra trong mục "Đơn hàng của tôi" trên website
+            
+            Xuất hóa đơn VAT (cho công ty):
+            - Vui lòng yêu cầu khi đặt hàng
+            - Cung cấp thông tin: Tên công ty, Mã số thuế, Địa chỉ
+            - Hóa đơn VAT được xuất trong vòng 3-5 ngày sau khi giao hàng
+            - Liên hệ hotline nếu cần hỗ trợ
+            
+            Phiếu bảo hành:
+            - Đi kèm trong gói hàng
+            - Cần giữ lại để được bảo hành
+            - Thời hạn bảo hành: 12 tháng (theo sản phẩm)
+            """,
+            "keywords": ["hóa đơn", "invoice", "xuất hóa đơn", "VAT", "chứng từ"]
+        },
+        {
+            "id": "order_guide_reorder_1",
+            "type": "reorder",
+            "title": "Đặt lại đơn hàng cũ",
+            "content": """
+            Cách đặt lại đơn hàng cũ:
+            
+            Trên website:
+            1. Đăng nhập vào tài khoản
+            2. Vào "Đơn hàng của tôi"
+            3. Chọn đơn hàng cũ muốn đặt lại
+            4. Nhấn nút "Mua lại" hoặc "Đặt lại"
+            5. Kiểm tra giỏ hàng và hoàn tất đặt hàng
+            
+            Lợi ích:
+            - Tiết kiệm thời gian không cần chọn lại sản phẩm
+            - Tự động điền sẵn địa chỉ giao hàng
+            - Có thể điều chỉnh số lượng hoặc bỏ bớt sản phẩm trước khi đặt
+            
+            Lưu ý:
+            - Giá có thể thay đổi so với đơn cũ
+            - Kiểm tra tình trạng còn hàng của sản phẩm
+            - Các mã giảm giá cũ có thể không còn hiệu lực
+            """,
+            "keywords": ["đặt lại", "reorder", "mua lại", "order lại"]
+        }
+    ]
+    
+    return guides
+
+def build_guide_document(guide: dict) -> dict:
+    text = f"{guide['title']}. {guide['content'].strip()}"
+    
+    return {
+        "id": guide["id"],
+        "text": " ".join(text.split()),
+        "metadata": {
+            "type": guide["type"],
+            "title": guide["title"],
+            "keywords": ",".join(guide["keywords"]),
+            "category": "order_guide"
+        }
+    }
+
+def save_guides_json(guides: List[Dict], output_path="app/data/json/order_guides_chunks.json"):
+    try:
+        import os
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        
+        documents = [build_guide_document(g) for g in guides]
+        
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(documents, f, ensure_ascii=False, indent=2)
+        
+        print(f"✅ Đã lưu {len(documents)} order guide documents vào {output_path}")
+        return documents
+        
+    except Exception as e:
+        print(f"❌ Lỗi khi lưu JSON: {e}")
+        return []
+
+def embed_guides_to_chroma(documents: List[Dict]):
+    if not documents:
+        print("⚠️ Không có documents để embed")
+        return
+    
+    try:
+        model = SentenceTransformer(settings.MODEL_ENCODE)
+        
+        client = chromadb.PersistentClient(path=settings.CHROMA_PATH)
+        
+        collection_name = f"{settings.CHROMA_COLLECTION}_order_guides"
+        
+        if collection_name in [c.name for c in client.list_collections()]:
+            client.delete_collection(collection_name)
+        
+        collection = client.create_collection(
+            name=collection_name,
+            metadata={"description": "Order guide embeddings for e-commerce chatbot"}
+        )
+        
+        batch_texts = [doc["text"] for doc in documents]
+        batch_ids = [doc["id"] for doc in documents]
+        batch_metadata = [doc["metadata"] for doc in documents]
+        
+        embeddings = model.encode(
+            batch_texts, 
+            convert_to_numpy=True, 
+            show_progress_bar=True,
+            normalize_embeddings=True
+        )
+        
+        collection.upsert(
+            ids=batch_ids,
+            embeddings=embeddings.tolist(),
+            metadatas=batch_metadata,
+            documents=batch_texts
+        )
+        
+        print(f"✅ Đã embed {len(documents)} order guides vào ChromaDB")
+        
+    except Exception as e:
+        print(f"❌ Lỗi khi embed vào ChromaDB: {e}")
+        import traceback
+        traceback.print_exc()
+
+def build_order_guide_embeddings():
+    guides = get_order_guide_data()
+    documents = save_guides_json(guides)
+    
+    if not documents:
+        return
+    
+    embed_guides_to_chroma(documents)
+
+if __name__ == "__main__":
+    build_order_guide_embeddings()

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "faq_1",
+    "text": "Câu hỏi: Làm sao để kiểm tra đơn hàng của tôi? Trả lời: Bạn có thể kiểm tra đơn hàng bằng cách: 1. Đăng nhập vào tài khoản trên website 2. Vào mục \"Đơn hàng của tôi\" 3. Xem chi tiết trạng thái đơn hàng và mã vận đơn Hoặc liên hệ với chúng tôi qua hotline với mã đơn hàng để được hỗ trợ.",
+    "metadata": {
+      "type": "faq",
+      "category": "order_tracking",
+      "question": "Làm sao để kiểm tra đơn hàng của tôi?",
+      "keywords": "kiểm tra đơn hàng,tracking,tra cứu,đơn hàng"
+    }
+  },
+  {
+    "id": "faq_2",
+    "text": "Câu hỏi: Tôi muốn hủy đơn hàng thì làm thế nào? Trả lời: Để hủy đơn hàng: - Nếu đơn hàng đang ở trạng thái \"Chờ xác nhận\": Bạn có thể hủy trực tiếp trên website - Nếu đơn hàng đã được xác nhận: Vui lòng liên hệ hotline ngay để được hỗ trợ - Đơn hàng đang giao không thể hủy, nhưng bạn có thể từ chối nhận hàng Lưu ý: Nếu đã thanh toán online, tiền sẽ được hoàn lại trong 5-7 ngày làm việc.",
+    "metadata": {
+      "type": "faq",
+      "category": "order_cancellation",
+      "question": "Tôi muốn hủy đơn hàng thì làm thế nào?",
+      "keywords": "hủy đơn,cancel order,không muốn mua"
+    }
+  },
+  {
+    "id": "faq_3",
+    "text": "Câu hỏi: Sản phẩm tôi nhận được bị lỗi, tôi phải làm gì? Trả lời: Nếu sản phẩm bị lỗi: 1. Chụp ảnh/video sản phẩm lỗi làm bằng chứng 2. Liên hệ với chúng tôi qua hotline hoặc chat trong vòng 48h kể từ khi nhận hàng 3. Cung cấp mã đơn hàng và hình ảnh sản phẩm lỗi Chúng tôi sẽ: - Đổi sản phẩm mới miễn phí (bao gồm phí vận chuyển) - Hoặc hoàn tiền 100% nếu không còn hàng thay thế",
+    "metadata": {
+      "type": "faq",
+      "category": "product_issue",
+      "question": "Sản phẩm tôi nhận được bị lỗi, tôi phải làm gì?",
+      "keywords": "sản phẩm lỗi,hàng bị hỏng,defect,warranty"
+    }
+  },
+  {
+    "id": "faq_4",
+    "text": "Câu hỏi: Tôi có thể đổi size/màu sau khi đã đặt hàng không? Trả lời: Đổi size/màu sau khi đặt hàng: - Nếu đơn hàng chưa được giao: Liên hệ ngay với chúng tôi để thay đổi - Nếu đơn hàng đã giao: Áp dụng chính sách đổi trả trong 7 ngày - Miễn phí đổi size/màu lần đầu tiên - Sản phẩm cần còn nguyên tem mác, chưa qua sử dụng",
+    "metadata": {
+      "type": "faq",
+      "category": "exchange",
+      "question": "Tôi có thể đổi size/màu sau khi đã đặt hàng không?",
+      "keywords": "đổi size,đổi màu,change size,exchange"
+    }
+  },
+  {
+    "id": "faq_5",
+    "text": "Câu hỏi: Mất bao lâu để nhận được hàng? Trả lời: Thời gian giao hàng: - Nội thành Hà Nội/TP.HCM: 1-2 ngày - Các tỉnh thành khác: 3-5 ngày làm việc - Vùng sâu, vùng xa: 5-7 ngày làm việc - Dịch vụ giao nhanh 24h: chỉ áp dụng tại Hà Nội và TP.HCM (phụ thu phí) Thời gian tính từ khi đơn hàng được xác nhận và đóng gói.",
+    "metadata": {
+      "type": "faq",
+      "category": "shipping_time",
+      "question": "Mất bao lâu để nhận được hàng?",
+      "keywords": "thời gian giao hàng,bao lâu,delivery time"
+    }
+  },
+  {
+    "id": "faq_6",
+    "text": "Câu hỏi: Tôi có bắt buộc phải có tài khoản để đặt hàng không? Trả lời: Có. Hiện tại, bạn cần đăng ký và đăng nhập tài khoản để có thể đặt hàng trên hệ thống của chúng tôi. Việc yêu cầu tài khoản giúp chúng tôi: - Quản lý và theo dõi trạng thái đơn hàng chính xác - Lưu thông tin giao hàng để đặt hàng nhanh hơn cho lần sau - Hỗ trợ chăm sóc khách hàng tốt hơn khi có vấn đề phát sinh - Cung cấp ưu đãi, khuyến mãi và tích điểm thành viên Việc đăng ký tài khoản hoàn toàn miễn phí và chỉ mất khoảng 30 giây.",
+    "metadata": {
+      "type": "faq",
+      "category": "account",
+      "question": "Tôi có bắt buộc phải có tài khoản để đặt hàng không?",
+      "keywords": "bắt buộc tài khoản,đăng nhập,đăng ký,đặt hàng"
+    }
+  },
+  {
+    "id": "faq_7",
+    "text": "Câu hỏi: Shop có chương trình khuyến mãi nào không? Trả lời: Shop thường xuyên có các chương trình khuyến mãi: - Sale cuối tuần: giảm 20-50% các sản phẩm - Flash sale hàng ngày: giảm sốc trong thời gian giới hạn - Mã giảm giá cho khách hàng mới: giảm 10% đơn đầu tiên - Ưu đãi sinh nhật: giảm 15% trong tháng sinh nhật - Freeship cho đơn từ 500k Theo dõi fanpage và website để không bỏ lỡ ưu đãi nào nhé!",
+    "metadata": {
+      "type": "faq",
+      "category": "promotion",
+      "question": "Shop có chương trình khuyến mãi nào không?",
+      "keywords": "khuyến mãi,giảm giá,sale,promotion,voucher"
+    }
+  },
+  {
+    "id": "faq_8",
+    "text": "Câu hỏi: Làm sao để liên hệ với shop? Trả lời: Bạn có thể liên hệ với chúng tôi bằng các cách sau: - Chat trực tiếp với admin ngay trên website để được hỗ trợ nhanh chóng - Gọi hotline: 19001111 (8h – 22h hàng ngày) Đội ngũ hỗ trợ của chúng tôi luôn sẵn sàng giải đáp mọi thắc mắc của bạn.",
+    "metadata": {
+      "type": "faq",
+      "category": "contact",
+      "question": "Làm sao để liên hệ với shop?",
+      "keywords": "liên hệ,chat với admin,hotline,hỗ trợ"
+    }
+  }
+]

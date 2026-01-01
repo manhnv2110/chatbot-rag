@@ -1,0 +1,184 @@
+[
+  {
+    "id": "category_3",
+    "text": "Danh mục: Áo khoác. Mô tả: Các loại áo khoác nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo khoác jeans, Áo khoác bomber. Giá trung bình: 524,000 VNĐ. Khoảng giá: 499,000 - 549,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 3,
+      "category_name": "Áo khoác",
+      "product_count": 2,
+      "avg_price": 524000.0,
+      "min_price": 499000.0,
+      "max_price": 549000.0
+    }
+  },
+  {
+    "id": "category_4",
+    "text": "Danh mục: Áo polo. Mô tả: Các loại áo polo nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo polo thể thao, Áo polo trơn. Giá trung bình: 289,000 VNĐ. Khoảng giá: 279,000 - 299,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 4,
+      "category_name": "Áo polo",
+      "product_count": 2,
+      "avg_price": 289000.0,
+      "min_price": 279000.0,
+      "max_price": 299000.0
+    }
+  },
+  {
+    "id": "category_2",
+    "text": "Danh mục: Áo sơ mi. Mô tả: Các loại áo sơ mi nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo sơ mi caro, Áo sơ mi trắng công sở. Giá trung bình: 314,000 VNĐ. Khoảng giá: 299,000 - 329,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 2,
+      "category_name": "Áo sơ mi",
+      "product_count": 2,
+      "avg_price": 314000.0,
+      "min_price": 299000.0,
+      "max_price": 329000.0
+    }
+  },
+  {
+    "id": "category_1",
+    "text": "Danh mục: Áo thun. Mô tả: Các loại áo thun nam. Có 3 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Áo Polo Nam Họa Tiết Thêu Nổi PanelPlay Form Regular, Áo thun nam oversize, Áo thun nam basic. Giá trung bình: 215,667 VNĐ. Khoảng giá: 199,000 - 249,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 1,
+      "category_name": "Áo thun",
+      "product_count": 3,
+      "avg_price": 215666.666667,
+      "min_price": 199000.0,
+      "max_price": 249000.0
+    }
+  },
+  {
+    "id": "category_10",
+    "text": "Danh mục: Giày & dép. Mô tả: Các loại giày và dép nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Giày sneaker nam, Dép nam quai ngang. Giá trung bình: 449,000 VNĐ. Khoảng giá: 199,000 - 699,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 10,
+      "category_name": "Giày & dép",
+      "product_count": 2,
+      "avg_price": 449000.0,
+      "min_price": 199000.0,
+      "max_price": 699000.0
+    }
+  },
+  {
+    "id": "category_14",
+    "text": "Danh mục: Mắt kính. Mô tả: Các loại mắt kính nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Mắt kính thời trang, Mắt kính râm nam. Giá trung bình: 214,000 VNĐ. Khoảng giá: 199,000 - 229,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 14,
+      "category_name": "Mắt kính",
+      "product_count": 2,
+      "avg_price": 214000.0,
+      "min_price": 199000.0,
+      "max_price": 229000.0
+    }
+  },
+  {
+    "id": "category_11",
+    "text": "Danh mục: Nón. Mô tả: Các loại nón nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Nón bucket, Nón lưỡi trai. Giá trung bình: 164,000 VNĐ. Khoảng giá: 149,000 - 179,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 11,
+      "category_name": "Nón",
+      "product_count": 2,
+      "avg_price": 164000.0,
+      "min_price": 149000.0,
+      "max_price": 179000.0
+    }
+  },
+  {
+    "id": "category_8",
+    "text": "Danh mục: Quần boxer. Mô tả: Các loại quần boxer nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần boxer thoáng khí, Quần boxer cotton. Giá trung bình: 114,000 VNĐ. Khoảng giá: 99,000 - 129,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 8,
+      "category_name": "Quần boxer",
+      "product_count": 2,
+      "avg_price": 114000.0,
+      "min_price": 99000.0,
+      "max_price": 129000.0
+    }
+  },
+  {
+    "id": "category_7",
+    "text": "Danh mục: Quần jeans. Mô tả: Các loại quần jeans nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần jeans rách gối, Quần jeans xanh đậm. Giá trung bình: 479,000 VNĐ. Khoảng giá: 459,000 - 499,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 7,
+      "category_name": "Quần jeans",
+      "product_count": 2,
+      "avg_price": 479000.0,
+      "min_price": 459000.0,
+      "max_price": 499000.0
+    }
+  },
+  {
+    "id": "category_9",
+    "text": "Danh mục: Quần jogger. Mô tả: Các loại quần jogger nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần jogger nỉ, Quần jogger thể thao. Giá trung bình: 364,000 VNĐ. Khoảng giá: 349,000 - 379,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 9,
+      "category_name": "Quần jogger",
+      "product_count": 2,
+      "avg_price": 364000.0,
+      "min_price": 349000.0,
+      "max_price": 379000.0
+    }
+  },
+  {
+    "id": "category_6",
+    "text": "Danh mục: Quần short. Mô tả: Các loại quần short nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần short kaki, Quần short thể thao. Giá trung bình: 244,000 VNĐ. Khoảng giá: 229,000 - 259,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 6,
+      "category_name": "Quần short",
+      "product_count": 2,
+      "avg_price": 244000.0,
+      "min_price": 229000.0,
+      "max_price": 259000.0
+    }
+  },
+  {
+    "id": "category_5",
+    "text": "Danh mục: Quần tây. Mô tả: Các loại quần tây nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Quần tây ống đứng, Quần tây nam công sở. Giá trung bình: 414,000 VNĐ. Khoảng giá: 399,000 - 429,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 5,
+      "category_name": "Quần tây",
+      "product_count": 2,
+      "avg_price": 414000.0,
+      "min_price": 399000.0,
+      "max_price": 429000.0
+    }
+  },
+  {
+    "id": "category_12",
+    "text": "Danh mục: Thắt lưng. Mô tả: Các loại thắt lưng nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Thắt lưng khóa tự động, Thắt lưng da nam. Giá trung bình: 274,000 VNĐ. Khoảng giá: 259,000 - 289,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 12,
+      "category_name": "Thắt lưng",
+      "product_count": 2,
+      "avg_price": 274000.0,
+      "min_price": 259000.0,
+      "max_price": 289000.0
+    }
+  },
+  {
+    "id": "category_13",
+    "text": "Danh mục: Vớ. Mô tả: Các loại vớ nam. Có 2 sản phẩm trong danh mục này. Các sản phẩm tiêu biểu: Vớ thể thao, Vớ cổ ngắn. Giá trung bình: 59,000 VNĐ. Khoảng giá: 49,000 - 69,000 VNĐ.",
+    "metadata": {
+      "type": "category",
+      "category_id": 13,
+      "category_name": "Vớ",
+      "product_count": 2,
+      "avg_price": 59000.0,
+      "min_price": 49000.0,
+      "max_price": 69000.0
+    }
+  }
+]

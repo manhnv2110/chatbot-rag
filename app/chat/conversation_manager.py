@@ -17,7 +17,7 @@ class ConversationManager:
         # Thêm tin nhắn vào lịch sử chat 
         self.histories[session_id].append({ 
             "role": role, 
-            "content": content 
+            "content": content.strip()
         })
 
         if len(self.histories[session_id]) > max_length:

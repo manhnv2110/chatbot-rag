@@ -1,0 +1,56 @@
+[
+  {
+    "id": "policy_shipping_1",
+    "text": "Chính sách giao hàng. Chính sách giao hàng của shop: - Giao hàng toàn quốc trong 2-5 ngày làm việc - Miễn phí giao hàng cho đơn hàng từ 500.000 VNĐ trở lên - Phí vận chuyển tiêu chuẩn: 30.000 VNĐ (nội thành), 50.000 VNĐ (ngoại thành) - Giao hàng nhanh trong 24h: phụ thu 50.000 VNĐ (chỉ áp dụng tại Hà Nội và TP.HCM) - Kiểm tra hàng trước khi thanh toán",
+    "metadata": {
+      "type": "shipping",
+      "title": "Chính sách giao hàng",
+      "keywords": "giao hàng,vận chuyển,ship,delivery,phí ship"
+    }
+  },
+  {
+    "id": "policy_return_1",
+    "text": "Chính sách đổi trả. Chính sách đổi trả hàng: - Đổi trả trong vòng 7 ngày kể từ ngày nhận hàng - Sản phẩm còn nguyên tem mác, chưa qua sử dụng - Miễn phí đổi size/màu lần đầu tiên - Hoàn tiền 100% nếu sản phẩm lỗi từ nhà sản xuất - Không áp dụng đổi trả với sản phẩm sale trên 50% - Liên hệ hotline hoặc chat để được hỗ trợ đổi trả",
+    "metadata": {
+      "type": "return",
+      "title": "Chính sách đổi trả",
+      "keywords": "đổi trả,hoàn tiền,return,refund,đổi hàng"
+    }
+  },
+  {
+    "id": "policy_payment_1",
+    "text": "Phương thức thanh toán. Có 2 phương thức thanh toán được chấp nhận: - COD (Thanh toán khi nhận hàng): áp dụng toàn quốc - Thanh toán qua VNPay: an toàn, bảo mật Tất cả giao dịch đều được mã hóa và bảo mật",
+    "metadata": {
+      "type": "payment",
+      "title": "Phương thức thanh toán",
+      "keywords": "thanh toán,payment,COD,VNPay"
+    }
+  },
+  {
+    "id": "policy_warranty_1",
+    "text": "Chính sách bảo hành. Chính sách bảo hành sản phẩm: - Bảo hành 12 tháng với lỗi từ nhà sản xuất - Miễn phí sửa chữa, thay thế linh kiện bị hỏng - Không áp dụng bảo hành với hư hỏng do người dùng - Vui lòng giữ hóa đơn để được bảo hành - Liên hệ trung tâm bảo hành để được hỗ trợ",
+    "metadata": {
+      "type": "warranty",
+      "title": "Chính sách bảo hành",
+      "keywords": "bảo hành,warranty,sửa chữa,lỗi sản phẩm"
+    }
+  },
+  {
+    "id": "policy_size_guide_1",
+    "text": "Hướng dẫn chọn size. Hướng dẫn chọn size phù hợp: - Size S: Chiều cao 1m50-1m60, cân nặng 45-52kg - Size M: Chiều cao 1m60-1m68, cân nặng 52-60kg - Size L: Chiều cao 1m68-1m75, cân nặng 60-70kg - Size XL: Chiều cao 1m75-1m80, cân nặng 70-80kg Nếu bạn nằm giữa 2 size, nên chọn size lớn hơn để thoải mái Miễn phí đổi size lần đầu nếu không vừa",
+    "metadata": {
+      "type": "size_guide",
+      "title": "Hướng dẫn chọn size",
+      "keywords": "size,chọn size,số đo,chiều cao,cân nặng"
+    }
+  },
+  {
+    "id": "policy_privacy_1",
+    "text": "Chính sách bảo mật. Cam kết bảo mật thông tin khách hàng: - Thông tin cá nhân được mã hóa và bảo mật tuyệt đối - Không chia sẻ thông tin cho bên thứ ba - Chỉ sử dụng thông tin cho mục đích giao hàng và chăm sóc khách hàng - Khách hàng có quyền yêu cầu xóa dữ liệu cá nhân - Tuân thủ nghiêm ngặt luật bảo vệ dữ liệu cá nhân",
+    "metadata": {
+      "type": "privacy",
+      "title": "Chính sách bảo mật",
+      "keywords": "bảo mật,privacy,thông tin cá nhân,dữ liệu"
+    }
+  }
+]

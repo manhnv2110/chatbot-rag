@@ -1,0 +1,495 @@
+[
+  {
+    "id": "product_29",
+    "text": "Sản phẩm: Áo Polo Nam Họa Tiết Thêu Nổi PanelPlay Form Regular. Danh mục: Áo thun. Giá: 199,000 VNĐ. Mô tả: VẢI CÁ SẤU COTTON MÁT MẺ, FORM REGULAR GỌN GÀNG, LINH HOẠT ỨNG DỤNG, PHỐI VIỀN SỌC CHUẨN GU, CHẤT RIÊNG NỔI BẬT. Size có sẵn: L (còn 40 sản phẩm), M (còn 69 sản phẩm), S (còn 50 sản phẩm), XL (còn 14 sản phẩm). Tổng tồn kho: 173 sản phẩm. Đánh giá: 4.0/5 sao từ 2 người mua. Nhận xét: 'Sản phẩm tốt, đẹp ' (5 sao); 'Sản phẩm tệ ' (3 sao). Có 3 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 29,
+      "product_name": "Áo Polo Nam Họa Tiết Thêu Nổi PanelPlay Form Regular",
+      "category_id": 1,
+      "category_name": "Áo thun",
+      "price": 199000.0,
+      "avg_rating": 4.0,
+      "review_count": 2,
+      "total_stock": 173,
+      "has_variants": true,
+      "image_count": 3
+    }
+  },
+  {
+    "id": "product_1",
+    "text": "Sản phẩm: Áo thun nam basic. Danh mục: Áo thun. Giá: 199,000 VNĐ. Mô tả: Áo thun cotton 100%, form regular. Size có sẵn: L (còn 29 sản phẩm), M (còn 22 sản phẩm), S (còn 8 sản phẩm), XL (còn 13 sản phẩm). Tổng tồn kho: 72 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 1,
+      "product_name": "Áo thun nam basic",
+      "category_id": 1,
+      "category_name": "Áo thun",
+      "price": 199000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 72,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_2",
+    "text": "Sản phẩm: Áo thun nam oversize. Danh mục: Áo thun. Giá: 249,000 VNĐ. Mô tả: Áo thun oversize phong cách Hàn Quốc. Size có sẵn: L (còn 26 sản phẩm), M (còn 20 sản phẩm), S (còn 14 sản phẩm), XL (còn 12 sản phẩm). Tổng tồn kho: 72 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 2,
+      "product_name": "Áo thun nam oversize",
+      "category_id": 1,
+      "category_name": "Áo thun",
+      "price": 249000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 72,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_3",
+    "text": "Sản phẩm: Áo sơ mi trắng công sở. Danh mục: Áo sơ mi. Giá: 299,000 VNĐ. Mô tả: Áo sơ mi nam trắng lịch sự. Size có sẵn: L (còn 25 sản phẩm), M (còn 20 sản phẩm), S (còn 15 sản phẩm), XL (còn 10 sản phẩm). Tổng tồn kho: 70 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 3,
+      "product_name": "Áo sơ mi trắng công sở",
+      "category_id": 2,
+      "category_name": "Áo sơ mi",
+      "price": 299000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 70,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_4",
+    "text": "Sản phẩm: Áo sơ mi caro. Danh mục: Áo sơ mi. Giá: 329,000 VNĐ. Mô tả: Áo sơ mi caro trẻ trung. Size có sẵn: L (còn 20 sản phẩm), M (còn 14 sản phẩm), S (còn 12 sản phẩm), XL (còn 8 sản phẩm). Tổng tồn kho: 54 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 4,
+      "product_name": "Áo sơ mi caro",
+      "category_id": 2,
+      "category_name": "Áo sơ mi",
+      "price": 329000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 54,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_5",
+    "text": "Sản phẩm: Áo khoác bomber. Danh mục: Áo khoác. Giá: 499,000 VNĐ. Mô tả: Áo khoác bomber nam cá tính. Size có sẵn: L (còn 20 sản phẩm), M (còn 15 sản phẩm), S (còn 10 sản phẩm), XL (còn 10 sản phẩm). Tổng tồn kho: 55 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 5,
+      "product_name": "Áo khoác bomber",
+      "category_id": 3,
+      "category_name": "Áo khoác",
+      "price": 499000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 55,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_6",
+    "text": "Sản phẩm: Áo khoác jeans. Danh mục: Áo khoác. Giá: 549,000 VNĐ. Mô tả: Áo khoác jeans nam năng động. Size có sẵn: L (còn 18 sản phẩm), M (còn 16 sản phẩm), S (còn 10 sản phẩm), XL (còn 9 sản phẩm). Tổng tồn kho: 53 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 6,
+      "product_name": "Áo khoác jeans",
+      "category_id": 3,
+      "category_name": "Áo khoác",
+      "price": 549000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 53,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_7",
+    "text": "Sản phẩm: Áo polo trơn. Danh mục: Áo polo. Giá: 279,000 VNĐ. Mô tả: Áo polo nam trơn, dễ phối đồ. Size có sẵn: L (còn 30 sản phẩm), M (còn 25 sản phẩm), S (còn 20 sản phẩm), XL (còn 15 sản phẩm). Tổng tồn kho: 90 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 7,
+      "product_name": "Áo polo trơn",
+      "category_id": 4,
+      "category_name": "Áo polo",
+      "price": 279000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 90,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_8",
+    "text": "Sản phẩm: Áo polo thể thao. Danh mục: Áo polo. Giá: 299,000 VNĐ. Mô tả: Áo polo nam thoáng mát. Size có sẵn: L (còn 26 sản phẩm), M (còn 22 sản phẩm), S (còn 18 sản phẩm), XL (còn 12 sản phẩm). Tổng tồn kho: 78 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 8,
+      "product_name": "Áo polo thể thao",
+      "category_id": 4,
+      "category_name": "Áo polo",
+      "price": 299000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 78,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_9",
+    "text": "Sản phẩm: Quần tây nam công sở. Danh mục: Quần tây. Giá: 399,000 VNĐ. Mô tả: Quần tây form slim fit. Size có sẵn: L (còn 25 sản phẩm), M (còn 20 sản phẩm), S (còn 15 sản phẩm), XL (còn 10 sản phẩm). Tổng tồn kho: 70 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 9,
+      "product_name": "Quần tây nam công sở",
+      "category_id": 5,
+      "category_name": "Quần tây",
+      "price": 399000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 70,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_10",
+    "text": "Sản phẩm: Quần tây ống đứng. Danh mục: Quần tây. Giá: 429,000 VNĐ. Mô tả: Quần tây nam lịch lãm. Size có sẵn: L (còn 22 sản phẩm), M (còn 18 sản phẩm), S (còn 12 sản phẩm), XL (còn 8 sản phẩm). Tổng tồn kho: 60 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 10,
+      "product_name": "Quần tây ống đứng",
+      "category_id": 5,
+      "category_name": "Quần tây",
+      "price": 429000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 60,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_11",
+    "text": "Sản phẩm: Quần short kaki. Danh mục: Quần short. Giá: 259,000 VNĐ. Mô tả: Quần short nam kaki thoải mái. Size có sẵn: L (còn 30 sản phẩm), M (còn 24 sản phẩm), S (còn 20 sản phẩm), XL (còn 15 sản phẩm). Tổng tồn kho: 89 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 11,
+      "product_name": "Quần short kaki",
+      "category_id": 6,
+      "category_name": "Quần short",
+      "price": 259000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 89,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_12",
+    "text": "Sản phẩm: Quần short thể thao. Danh mục: Quần short. Giá: 229,000 VNĐ. Mô tả: Quần short nam thể thao. Size có sẵn: L (còn 28 sản phẩm), M (còn 22 sản phẩm), S (còn 18 sản phẩm), XL (còn 12 sản phẩm). Tổng tồn kho: 80 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 12,
+      "product_name": "Quần short thể thao",
+      "category_id": 6,
+      "category_name": "Quần short",
+      "price": 229000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 80,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_13",
+    "text": "Sản phẩm: Quần jeans xanh đậm. Danh mục: Quần jeans. Giá: 459,000 VNĐ. Mô tả: Quần jeans nam form slim. Size có sẵn: L (còn 20 sản phẩm), M (còn 15 sản phẩm), S (còn 10 sản phẩm), XL (còn 8 sản phẩm). Tổng tồn kho: 53 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 13,
+      "product_name": "Quần jeans xanh đậm",
+      "category_id": 7,
+      "category_name": "Quần jeans",
+      "price": 459000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 53,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_14",
+    "text": "Sản phẩm: Quần jeans rách gối. Danh mục: Quần jeans. Giá: 499,000 VNĐ. Mô tả: Quần jeans nam phong cách streetwear. Size có sẵn: L (còn 18 sản phẩm), M (còn 12 sản phẩm), S (còn 8 sản phẩm), XL (còn 6 sản phẩm). Tổng tồn kho: 44 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 14,
+      "product_name": "Quần jeans rách gối",
+      "category_id": 7,
+      "category_name": "Quần jeans",
+      "price": 499000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 44,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_15",
+    "text": "Sản phẩm: Quần boxer cotton. Danh mục: Quần boxer. Giá: 99,000 VNĐ. Mô tả: Quần boxer nam cotton mềm mại. Size có sẵn: L (còn 40 sản phẩm), M (còn 35 sản phẩm), S (còn 30 sản phẩm), XL (còn 20 sản phẩm). Tổng tồn kho: 125 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 15,
+      "product_name": "Quần boxer cotton",
+      "category_id": 8,
+      "category_name": "Quần boxer",
+      "price": 99000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 125,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_16",
+    "text": "Sản phẩm: Quần boxer thoáng khí. Danh mục: Quần boxer. Giá: 129,000 VNĐ. Mô tả: Quần boxer nam co giãn tốt. Size có sẵn: L (còn 38 sản phẩm), M (còn 32 sản phẩm), S (còn 28 sản phẩm), XL (còn 18 sản phẩm). Tổng tồn kho: 116 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 16,
+      "product_name": "Quần boxer thoáng khí",
+      "category_id": 8,
+      "category_name": "Quần boxer",
+      "price": 129000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 116,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_17",
+    "text": "Sản phẩm: Quần jogger thể thao. Danh mục: Quần jogger. Giá: 349,000 VNĐ. Mô tả: Quần jogger nam năng động. Size có sẵn: L (còn 25 sản phẩm), M (còn 20 sản phẩm), S (còn 15 sản phẩm), XL (còn 10 sản phẩm). Tổng tồn kho: 70 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 17,
+      "product_name": "Quần jogger thể thao",
+      "category_id": 9,
+      "category_name": "Quần jogger",
+      "price": 349000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 70,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_18",
+    "text": "Sản phẩm: Quần jogger nỉ. Danh mục: Quần jogger. Giá: 379,000 VNĐ. Mô tả: Quần jogger nam chất liệu nỉ. Size có sẵn: L (còn 22 sản phẩm), M (còn 18 sản phẩm), S (còn 12 sản phẩm), XL (còn 8 sản phẩm). Tổng tồn kho: 60 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 18,
+      "product_name": "Quần jogger nỉ",
+      "category_id": 9,
+      "category_name": "Quần jogger",
+      "price": 379000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 60,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_19",
+    "text": "Sản phẩm: Giày sneaker nam. Danh mục: Giày & dép. Giá: 699,000 VNĐ. Mô tả: Giày sneaker nam phong cách trẻ trung. Size có sẵn: 39 (còn 10 sản phẩm), 40 (còn 15 sản phẩm), 41 (còn 20 sản phẩm), 42 (còn 10 sản phẩm). Tổng tồn kho: 55 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 19,
+      "product_name": "Giày sneaker nam",
+      "category_id": 10,
+      "category_name": "Giày & dép",
+      "price": 699000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 55,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_20",
+    "text": "Sản phẩm: Dép nam quai ngang. Danh mục: Giày & dép. Giá: 199,000 VNĐ. Mô tả: Dép nam quai ngang tiện lợi. Size có sẵn: 39 (còn 12 sản phẩm), 40 (còn 16 sản phẩm), 41 (còn 22 sản phẩm), 42 (còn 12 sản phẩm). Tổng tồn kho: 62 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 20,
+      "product_name": "Dép nam quai ngang",
+      "category_id": 10,
+      "category_name": "Giày & dép",
+      "price": 199000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 62,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_21",
+    "text": "Sản phẩm: Nón lưỡi trai. Danh mục: Nón. Giá: 149,000 VNĐ. Mô tả: Nón lưỡi trai nam thời trang. Size có sẵn: FREE (còn 50 sản phẩm). Tổng tồn kho: 50 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 21,
+      "product_name": "Nón lưỡi trai",
+      "category_id": 11,
+      "category_name": "Nón",
+      "price": 149000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 50,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_22",
+    "text": "Sản phẩm: Nón bucket. Danh mục: Nón. Giá: 179,000 VNĐ. Mô tả: Nón bucket nam phong cách street. Size có sẵn: FREE (còn 40 sản phẩm). Tổng tồn kho: 40 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 22,
+      "product_name": "Nón bucket",
+      "category_id": 11,
+      "category_name": "Nón",
+      "price": 179000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 40,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_23",
+    "text": "Sản phẩm: Thắt lưng da nam. Danh mục: Thắt lưng. Giá: 259,000 VNĐ. Mô tả: Thắt lưng da thật nam. Size có sẵn: FREE (còn 30 sản phẩm). Tổng tồn kho: 30 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 23,
+      "product_name": "Thắt lưng da nam",
+      "category_id": 12,
+      "category_name": "Thắt lưng",
+      "price": 259000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 30,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_24",
+    "text": "Sản phẩm: Thắt lưng khóa tự động. Danh mục: Thắt lưng. Giá: 289,000 VNĐ. Mô tả: Thắt lưng nam khóa tự động. Size có sẵn: FREE (còn 35 sản phẩm). Tổng tồn kho: 35 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 24,
+      "product_name": "Thắt lưng khóa tự động",
+      "category_id": 12,
+      "category_name": "Thắt lưng",
+      "price": 289000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 35,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_25",
+    "text": "Sản phẩm: Vớ cổ ngắn. Danh mục: Vớ. Giá: 49,000 VNĐ. Mô tả: Vớ nam cổ ngắn cotton. Size có sẵn: FREE (còn 60 sản phẩm). Tổng tồn kho: 60 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 25,
+      "product_name": "Vớ cổ ngắn",
+      "category_id": 13,
+      "category_name": "Vớ",
+      "price": 49000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 60,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_26",
+    "text": "Sản phẩm: Vớ thể thao. Danh mục: Vớ. Giá: 69,000 VNĐ. Mô tả: Vớ nam thể thao thoáng khí. Size có sẵn: FREE (còn 55 sản phẩm). Tổng tồn kho: 55 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 26,
+      "product_name": "Vớ thể thao",
+      "category_id": 13,
+      "category_name": "Vớ",
+      "price": 69000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 55,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_27",
+    "text": "Sản phẩm: Mắt kính râm nam. Danh mục: Mắt kính. Giá: 199,000 VNĐ. Mô tả: Mắt kính râm chống UV. Size có sẵn: FREE (còn 25 sản phẩm). Tổng tồn kho: 25 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 27,
+      "product_name": "Mắt kính râm nam",
+      "category_id": 14,
+      "category_name": "Mắt kính",
+      "price": 199000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 25,
+      "has_variants": true,
+      "image_count": 2
+    }
+  },
+  {
+    "id": "product_28",
+    "text": "Sản phẩm: Mắt kính thời trang. Danh mục: Mắt kính. Giá: 229,000 VNĐ. Mô tả: Mắt kính nam phong cách Hàn Quốc. Size có sẵn: FREE (còn 20 sản phẩm). Tổng tồn kho: 20 sản phẩm. Có 2 hình ảnh sản phẩm.",
+    "metadata": {
+      "type": "product",
+      "product_id": 28,
+      "product_name": "Mắt kính thời trang",
+      "category_id": 14,
+      "category_name": "Mắt kính",
+      "price": 229000.0,
+      "avg_rating": 0,
+      "review_count": 0,
+      "total_stock": 20,
+      "has_variants": true,
+      "image_count": 2
+    }
+  }
+]
